@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Senparc.NeuChar.AspNet</name>
+    </assembly>
+    <members>
+        <member name="T:Senparc.NeuChar.App.Controllers.NeuCharAppController">
+            <summary>
+            用于快速实现 NeuChar 开发者发布的 App 与 NeuChar 平台交互（如状态发送）的默认 Controller 
+            <para>如果你有已经自己实现的带有 MessageHandler 的 Controller，也可以不使用这个基类</para>
+            </summary>
+        </member>
+        <member name="M:Senparc.NeuChar.App.Controllers.NeuCharAppController.Get(Senparc.NeuChar.App.Entities.NeuCharAppPostModel,System.String,System.String)">
+            <summary>
+            后台验证地址（使用Get），微信后台的“接口配置信息”的Url填写如：http://sdk.weixin.senparc.com/weixin
+            </summary>
+        </member>
+        <member name="M:Senparc.NeuChar.App.Controllers.NeuCharAppController.Post(Senparc.NeuChar.App.Entities.NeuCharAppPostModel,System.String)">
+            <summary>
+            最简化的处理流程（不加密）
+            </summary>
+        </member>
+        <member name="T:Senparc.NeuChar.Middlewares.IMessageHandlerMiddleware`3">
+            <summary>
+            MessageHandler 中间件基类接口 TODO：独立到文件
+            </summary>
+            <typeparam name="TMC"></typeparam>
+            <typeparam name="TPM"></typeparam>
+            <typeparam name="TS"></typeparam>
+        </member>
+        <member name="T:Senparc.NeuChar.Middlewares.IMessageHandlerMiddleware`5">
+            <summary>
+            MessageHandler 中间件基类接口 TODO：独立到文件
+            </summary>
+            <typeparam name="TMC"></typeparam>
+            <typeparam name="TRequest"></typeparam>
+            <typeparam name="TResponse"></typeparam>
+            <typeparam name="TPM"></typeparam>
+            <typeparam name="TS"></typeparam>
+        </member>
+        <member name="P:Senparc.NeuChar.Middlewares.IMessageHandlerMiddleware`5.ExecuteCancellationTokenSource">
+            <summary>
+            执行 MessageHandler.ExecuteAsync() 时提供 CancellationTokenSource.CancellationToken
+            </summary>
+        </member>
+        <member name="M:Senparc.NeuChar.Middlewares.IMessageHandlerMiddleware`5.GetPostModel(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            生成 PostModel
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Senparc.NeuChar.Middlewares.IMessageHandlerMiddleware`5.GetEchostr(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            获取 echostr（如果有）
+            </summary>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Senparc.NeuChar.Middlewares.IMessageHandlerMiddleware`5.GetCheckSignature(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            GET 请求下的签名验证
+            </summary>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Senparc.NeuChar.Middlewares.IMessageHandlerMiddleware`5.PostCheckSignature(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            POST 请求下的签名验证
+            </summary>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Senparc.NeuChar.Middlewares.IMessageHandlerMiddleware`5.Invoke(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            Invoke
+            </summary>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Senparc.NeuChar.Middlewares.IMessageHandlerMiddleware`5.GetGetCheckFaildMessage(Microsoft.AspNetCore.Http.HttpContext,System.String,System.String)">
+            <summary>
+            获取 GET 请求时错误响应信息
+            </summary>
+            <param name="context"></param>
+            <param name="supportSignature">提供的签名</param>
+            <param name="correctSignature">正确的签名</param>
+            <returns></returns>
+        </member>
+        <member name="T:Senparc.NeuChar.Middlewares.MessageHandlerMiddleware`3">
+            <summary>
+            MessageHandler 中间件基类
+            </summary>
+            <typeparam name="TMC">上下文</typeparam>
+            <typeparam name="TPM">PostModel</typeparam>
+            <typeparam name="TS">Setting 类，如 SenparcWeixinSetting</typeparam>
+        </member>
+        <member name="T:Senparc.NeuChar.Middlewares.MessageHandlerMiddleware`5">
+            <summary>
+            MessageHandler 中间件基类
+            </summary>
+            <typeparam name="TMC">上下文</typeparam>
+            <typeparam name="TPM">PostModel</typeparam>
+            <typeparam name="TS">Setting 类，如 SenparcWeixinSetting</typeparam>
+        </member>
+        <member name="P:Senparc.NeuChar.Middlewares.MessageHandlerMiddleware`5.ExecuteCancellationTokenSource">
+            <summary>
+            执行 MessageHandler.ExecuteAsync() 时提供 CancellationTokenSource.CancellationToken
+            </summary>
+        </member>
+        <member name="M:Senparc.NeuChar.Middlewares.MessageHandlerMiddleware`5.#ctor(Microsoft.AspNetCore.Http.RequestDelegate,System.IServiceProvider,System.Func{System.IO.Stream,`3,System.Int32,System.IServiceProvider,Senparc.NeuChar.MessageHandlers.MessageHandler{`0,`1,`2}},System.Action{Senparc.NeuChar.Middlewares.MessageHandlerMiddlewareOptions{`4}})">
+            <summary>
+            EnableRequestRewindMiddleware
+            </summary>
+            <param name="next"></param>
+        </member>
+        <member name="M:Senparc.NeuChar.Middlewares.MessageHandlerMiddleware`5.GetPostModel(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            生成 PostModel
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Senparc.NeuChar.Middlewares.MessageHandlerMiddleware`5.GetEchostr(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            获取 echostr（如果有）
+            </summary>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Senparc.NeuChar.Middlewares.MessageHandlerMiddleware`5.GetCheckSignature(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            GET 请求下的签名验证
+            </summary>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Senparc.NeuChar.Middlewares.MessageHandlerMiddleware`5.PostCheckSignature(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            POST 请求下的签名验证
+            </summary>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Senparc.NeuChar.Middlewares.MessageHandlerMiddleware`5.Invoke(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            Invoke
+            </summary>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Senparc.NeuChar.Middlewares.MessageHandlerMiddleware`5.GetGetCheckFaildMessage(Microsoft.AspNetCore.Http.HttpContext,System.String,System.String)">
+            <summary>
+            获取 GET 请求时错误响应信息
+            </summary>
+            <param name="context"></param>
+            <param name="supportSignature">提供的签名</param>
+            <param name="correctSignature">正确的签名</param>
+            <returns></returns>
+        </member>
+        <member name="T:Senparc.NeuChar.Middlewares.MessageHandlerMiddlewareExtension">
+            <summary>
+            MessageHandlerMiddleware 扩展类
+            </summary>
+        </member>
+        <member name="M:Senparc.NeuChar.Middlewares.MessageHandlerMiddlewareExtension.UseMessageHandler``4(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Http.PathString,System.Func{System.IO.Stream,``2,System.Int32,System.IServiceProvider,Senparc.NeuChar.MessageHandlers.MessageHandler{``1,Senparc.NeuChar.Entities.IRequestMessageBase,Senparc.NeuChar.Entities.IResponseMessageBase}},System.Action{Senparc.NeuChar.Middlewares.MessageHandlerMiddlewareOptions{``3}})">
+            <summary>
+            使用 MessageHandler 配置。注意：会默认使用异步方法 messageHandler.ExecuteAsync()。
+            </summary>
+            <param name="builder"></param>
+            <param name="pathMatch">路径规则（路径开头，可带参数）</param>
+            <param name="messageHandler">MessageHandler</param>
+            <param name="options">设置选项</param>
+            <returns></returns>
+        </member>
+        <member name="M:Senparc.NeuChar.Middlewares.MessageHandlerMiddlewareExtension.UseMessageHandler``6(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Http.PathString,System.Func{System.IO.Stream,``4,System.Int32,System.IServiceProvider,Senparc.NeuChar.MessageHandlers.MessageHandler{``3,``1,``2}},System.Action{Senparc.NeuChar.Middlewares.MessageHandlerMiddlewareOptions{``5}})">
+            <summary>
+            使用 MessageHandler 配置。注意：会默认使用异步方法 messageHandler.ExecuteAsync()。
+            </summary>
+            <param name="builder"></param>
+            <param name="pathMatch">路径规则（路径开头，可带参数）</param>
+            <param name="messageHandler">MessageHandler</param>
+            <param name="options">设置选项</param>
+            <returns></returns>
+        </member>
+        <member name="T:Senparc.NeuChar.Middlewares.MessageHandlerMiddlewareOptions`1">
+            <summary>
+            MessageHandlerMiddleware 配置信息
+            </summary>
+            <typeparam name="T">AccountSetting 类型，如公众号的 SenparcWeixinSetting</typeparam>
+        </member>
+        <member name="P:Senparc.NeuChar.Middlewares.MessageHandlerMiddlewareOptions`1.EnableRequestLog">
+            <summary>
+            启用 RequestMessage 的日志记录
+            </summary>
+        </member>
+        <member name="P:Senparc.NeuChar.Middlewares.MessageHandlerMiddlewareOptions`1.EnbleResponseLog">
+            <summary>
+            启用 ResponseMessage 的日志记录
+            </summary>
+        </member>
+        <member name="P:Senparc.NeuChar.Middlewares.MessageHandlerMiddlewareOptions`1.DefaultMessageHandlerAsyncEvent">
+            <summary>
+            在没有 override 的情况下，MessageHandler 事件异步方法的默认调用方法
+            </summary>
+        </member>
+        <member name="P:Senparc.NeuChar.Middlewares.MessageHandlerMiddlewareOptions`1.MaxRecordCount">
+            <summary>
+            上下文最大纪录数量（默认为 10)
+            </summary>
+        </member>
+        <member name="P:Senparc.NeuChar.Middlewares.MessageHandlerMiddlewareOptions`1.OmitRepeatedMessage">
+            <summary>
+            是否去重（默认为 true）
+            </summary>
+        </member>
+        <member name="P:Senparc.NeuChar.Middlewares.MessageHandlerMiddlewareOptions`1.AccountSettingFunc">
+            <summary>
+            如公众号的 SenparcWeixinSetting 信息，必须包含 Token、AppId，以及 EncodingAESKey（如果有）
+            </summary>
+        </member>
+        <member name="P:Senparc.NeuChar.Middlewares.MessageHandlerMiddlewareOptions`1.AggregateExceptionCatch">
+            <summary>
+            当有执行异常时可以捕获异常进行处理。返回 true 则继续执行，返回 false，则完成委托执行后抛出异常
+            </summary>
+        </member>
+    </members>
+</doc>

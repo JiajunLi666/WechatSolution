@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Senparc.Weixin.AspNet</name>
+    </assembly>
+    <members>
+        <member name="T:Senparc.Weixin.BrowserUtility.BrowserUtility">
+            <summary>
+            浏览器公共类
+            </summary>
+        </member>
+        <member name="M:Senparc.Weixin.BrowserUtility.BrowserUtility.SideInWeixinBrowser(System.Web.HttpContextBase)">
+            <summary>
+            判断是否在微信内置浏览器中
+            </summary>
+            <param name="httpContext">HttpContextBase对象</param>
+            <returns>true：在微信内置浏览器内。false：不在微信内置浏览器内。</returns>
+        </member>
+        <member name="M:Senparc.Weixin.BrowserUtility.BrowserUtility.SideInWeixinMiniProgram(System.Web.HttpContextBase)">
+            <summary>
+            判断是否在微信小程序内发起请求（注意：此方法在Android下有效，在iOS下暂时无效！）
+            </summary>
+            <param name="httpContext">HttpContextBase对象</param>
+            <returns>true：在微信内置浏览器内。false：不在微信内置浏览器内。</returns>
+        </member>
+        <member name="T:Senparc.Weixin.AspNetHttpUtility.UrlUtility">
+            <summary>
+            URL工具类
+            </summary>
+        </member>
+        <member name="M:Senparc.Weixin.AspNetHttpUtility.UrlUtility.GenerateOAuthCallbackUrl(System.Web.HttpContextBase,System.String)">
+            <summary>
+            生成OAuth用的CallbackUrl参数（原始状态，未整体进行UrlEncode）
+            </summary>
+            <param name="httpContext"></param>
+            <param name="oauthCallbackUrl"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

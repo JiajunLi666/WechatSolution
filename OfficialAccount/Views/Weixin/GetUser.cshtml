@@ -1,0 +1,83 @@
+﻿
+@{
+    ViewBag.Title = "粉丝列表";
+}
+
+<h2>粉丝列表</h2>
+<h3>总关注数：@ViewBag.userInfoList.Count</h3>
+<div style="margin:10px auto">
+    <a href="GroupManage" class="btn btn-primary">分组管理</a>
+    <a href="TagManage" class="btn btn-info">标签管理</a>
+</div>
+<table class="table table-hover table-striped">
+    <tr>
+        <td>Nickname</td>
+        <td>Gender</td>
+        <td>Open_id</td>
+        <td>Group_id</td>
+        <td>Tagid_list</td>
+        <td>Subscrib_time</td>
+        <td>Operation</td>
+    </tr>
+    @{
+        var count = ViewBag.userInfoList.Count;
+        for (int i = 0; i < count; i++)
+        {
+            <tr>
+                    <td>@ViewBag.userInfoList[i].nickname</td>
+                    <td>@(ViewBag.userInfoList[i].sex == 1 ? "男" : "女")</td>
+                    <td>@ViewBag.userInfoList[i].openid</td>
+                    <td>@Html.DropDownList("group-list",new SelectList(ViewBag.groupSelect,"Value","Text", ViewBag.userInfoList[i].groupid),new { @class="btn btn-primary dropdown-toggle form-control group-list-change"})</td>
+                    @*<td>@ViewBag.userInfoList[i].groupid</td>*@
+                    @*<td>@foreach(var tagid in ViewBag.userInfoList[i].tagid_list){  @(tagid+" , ") }</td>*@
+                    <td>@(string.Join("," , ViewBag.userInfoList[i].tagid_list))</td>
+                    <td>@(new DateTime(1970, 1, 1).AddSeconds(ViewBag.userInfoList[i].subscribe_time))</td>
+                    <td><button class="btn btn-success" onclick="templateMsg('@ViewBag.userInfoList[i].openid')">推送测试模板消息</button></td>
+            </tr>
+        }
+    }
+</table>
+
+<script>
+    $(function () {
+        $('.group-list-change').change(function () {
+            var openid = $(this).parent().prev().html();
+            var newGroupId = $(this).val();
+            $.ajax({
+                type: "Post",
+                url: "/Weixin/updateGroupId",
+                data: "openid=" + openid + "&newGroupId=" + newGroupId,
+                dataType: "json",
+                success: function (res) {
+                    if (res.errorcode == 0)
+                        alert("分组修改成功！");
+                    else
+                        alert("修改失败" + res.msg);
+                },
+                error: function (xmlReq, err, c) {
+                    alert("error:" + err);
+                }
+            });
+        })
+    })
+
+    function templateMsg(openid) {
+        if (confirm("确定要给该用户推送模板消息吗？")) { 
+            $.ajax({
+                type: "Post",
+                url: "/Weixin/SendTemplateMessage",
+                data: "openid=" + openid,
+                dataType: "json",
+                success: function (res) {
+                    if (res.errorcode == 0)
+                        alert("推送成功");
+                    else
+                        alert("推送失败" + res.msg);
+                },
+                error: function (xmlReq, err, c) {
+                    alert("error:" + err);
+                }
+            });
+        }
+    }
+</script>

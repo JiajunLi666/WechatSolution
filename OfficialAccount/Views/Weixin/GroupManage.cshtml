@@ -1,0 +1,89 @@
+﻿
+@{
+    ViewBag.Title = "分组管理";
+}
+
+<h2>分组列表</h2>
+<h4>共 @ViewBag.groups.Count 个分组</h4>
+<p><button class="btn btn-success create-group">创建新分组</button></p>
+
+
+<table class="table table-hover table-striped">
+    <tr>
+        <td>Group_id</td>
+        <td>Group_name</td>
+        <td>Operation</td>
+    </tr>
+    @{
+        foreach (var group in ViewBag.groups)
+        {
+            <tr>
+                <td>@(group.id)</td>
+                <td>@(group.name)</td>
+                <td><button class="btn btn-warning edit-group">修改分组名</button></td>
+            </tr>
+        }
+    }
+</table>
+
+<!-- Modal -->
+<div class="modal fade" tabindex="-1" role="dialog" id="myModal">
+    <div class="modal-dialog modal-sm" role="document">
+        <div class="modal-content">
+            @using (Html.BeginForm("UpdateGroupName", "weixin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">修改分组名称</h4>
+                </div>
+                <div class="modal-body">
+                    <p id="groupIdP"></p>
+                    <p>分组名称：<input type="text" class="form-control" name="groupName" id="groupName" /></p>
+                    <input type="hidden" name="groupId" id="groupId" />
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Save changes</button>
+                </div>
+            }
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div class="modal fade" tabindex="-1" role="dialog" id="createModal">
+    <div class="modal-dialog modal-sm" role="document">
+        <div class="modal-content">
+            @using (Html.BeginForm("CreateGroup", "weixin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">新建分组</h4>
+                </div>
+                <div class="modal-body">
+                    <p>分组名称：<input type="text" class="form-control" name="groupName" /></p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Create</button>
+                </div>
+            }
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<script>
+    $(function () {
+        $('.edit-group').click(function () {
+            var groupName = $(this).parent().prev().html();
+            var groupId = $(this).parent().prev().prev().html();
+            $('#groupIdP').html("分组ID：" + groupId);
+            $('#groupId').val(groupId);
+            $('#groupName').val(groupName);
+            $('#myModal').modal('show');
+        });
+
+        $('.create-group').click(function () {
+            $('#createModal').modal('show');
+        })
+    })
+</script>

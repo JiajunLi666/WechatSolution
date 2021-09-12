@@ -1,0 +1,52 @@
+﻿@{
+    ViewBag.Title = "AjaxTest";
+}
+
+<h2>AjaxTest</h2>
+
+<input type="text" id="name" />
+<button class="btn btn-default" onclick="ajax()">AjaxPost</button>
+<button class="btn btn-default" onclick="ajax2()">AjaxPost2</button>
+
+<script>
+    function ajax() {
+        var name = $('#name').val().trim();
+        alert(name);
+        $.ajax({
+            type: "Post",
+            url: "/Weixin/AjaxGetData",
+            data: "name="+name,
+            dataType: "json",
+            success: function (res) {
+                alert("success:" + res.msg); // 注意有个d，至于为什么通过chrome看响应吧，O(∩_∩)O。
+            },
+            error: function (xmlReq, err, c) {
+                alert("error:" + err);
+            }
+        });
+    }
+
+
+    function ajax2() {
+        var name = $('#name').val().trim();
+        alert(name);
+        $.ajax({
+            type: "Post",
+            url: "/Weixin/GetStr",
+            //方法传参的写法一定要对，str为形参的名字,str2为第二个形参的名字  
+            data: "{'str':'我是','str2':'XXX'}",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (data) {
+                //返回的数据用data.d获取内容  
+                alert(data.d);
+            },
+            error: function (err) {
+                alert(err);
+            }
+        });
+
+        //禁用按钮的提交  
+        return false;
+    }
+</script>

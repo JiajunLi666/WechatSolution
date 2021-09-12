@@ -1,0 +1,1818 @@
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 00:38:34.6441]
+[线程：58]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 00:38:34.6491]
+[线程：58]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 01:15:37.9091]
+[线程：30]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 01:15:37.9131]
+[线程：30]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 01:20:52.3983]
+[线程：30]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 01:20:52.4023]
+[线程：30]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 09:37:57.7754]
+[线程：74]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 09:37:57.7804]
+[线程：74]
+微信扩展缓存注册总用时：0.9974ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 09:44:11.4659]
+[线程：74]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 09:44:11.4699]
+[线程：74]
+微信扩展缓存注册总用时：0.9996ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 09:44:23.6966]
+[线程：32]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_ACWYY4AHANtJWXvvyygjhAWjOW7eWnE5Ik5BNnAOi3aYh3PhGxnEHfNH4QH_tpsCzILmGZFwltV1SnDiqFwjbnqZKhA8oW2IQZ9eRFkqK6UHbn4UJ-DhizrEUJWhUdugZuIbo9NiCssEZfLjPJGeAHAICZ&openid=ohzyVt6nDhiRLVl413tLQOlFf8f0&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt6nDhiRLVl413tLQOlFf8f0","nickname":"米兰的小铁匠","sex":1,"language":"zh_CN","city":"杭州","province":"浙江","country":"中国","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/ajNVdqHZLLCJxHZ9Jb1vO3ibephTnEXsWRuVbTkSo8MqW55E38d8x8SLulhYyKZfvWGOsFlAvJtpFDwfGTcYQuRJyQHet7aZkiaWM7OWfYcicM\/132","subscribe_time":1630681243,"remark":"","groupid":0,"tagid_list":[],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 09:45:08.3276]
+[线程：64]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_ACWYY4AHANtJWXvvyygjhAWjOW7eWnE5Ik5BNnAOi3aYh3PhGxnEHfNH4QH_tpsCzILmGZFwltV1SnDiqFwjbnqZKhA8oW2IQZ9eRFkqK6UHbn4UJ-DhizrEUJWhUdugZuIbo9NiCssEZfLjPJGeAHAICZ&openid=ohzyVt6nDhiRLVl413tLQOlFf8f0&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt6nDhiRLVl413tLQOlFf8f0","nickname":"米兰的小铁匠","sex":1,"language":"zh_CN","city":"杭州","province":"浙江","country":"中国","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/ajNVdqHZLLCJxHZ9Jb1vO3ibephTnEXsWRuVbTkSo8MqW55E38d8x8SLulhYyKZfvWGOsFlAvJtpFDwfGTcYQuRJyQHet7aZkiaWM7OWfYcicM\/132","subscribe_time":1630681243,"remark":"","groupid":0,"tagid_list":[],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 10:06:39.9820]
+[线程：45]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 10:06:39.9870]
+[线程：45]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 10:06:52.3683]
+[线程：64]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_CMazwf6i_ZbbStw2So02PRqyxh618ECG21Qn7tr7MtVIoZbvzEKgSDOeRLa_r1plY9SGz2uIxtrPG_rQW8A5hrP50O231yQfcFcjR87MkoqqRX2cOe-3Ce2_4Sg5T8TdZBpWVkjImAaOu5uNQJPjADAMFL&openid=ohzyVt6nDhiRLVl413tLQOlFf8f0&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt6nDhiRLVl413tLQOlFf8f0","nickname":"米兰的小铁匠","sex":1,"language":"zh_CN","city":"杭州","province":"浙江","country":"中国","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/ajNVdqHZLLCJxHZ9Jb1vO3ibephTnEXsWRuVbTkSo8MqW55E38d8x8SLulhYyKZfvWGOsFlAvJtpFDwfGTcYQuRJyQHet7aZkiaWM7OWfYcicM\/132","subscribe_time":1630681243,"remark":"","groupid":0,"tagid_list":[],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 10:07:08.3831]
+[线程：68]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_CMazwf6i_ZbbStw2So02PRqyxh618ECG21Qn7tr7MtVIoZbvzEKgSDOeRLa_r1plY9SGz2uIxtrPG_rQW8A5hrP50O231yQfcFcjR87MkoqqRX2cOe-3Ce2_4Sg5T8TdZBpWVkjImAaOu5uNQJPjADAMFL&openid=ohzyVt6nDhiRLVl413tLQOlFf8f0&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt6nDhiRLVl413tLQOlFf8f0","nickname":"米兰的小铁匠","sex":1,"language":"zh_CN","city":"杭州","province":"浙江","country":"中国","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/ajNVdqHZLLCJxHZ9Jb1vO3ibephTnEXsWRuVbTkSo8MqW55E38d8x8SLulhYyKZfvWGOsFlAvJtpFDwfGTcYQuRJyQHet7aZkiaWM7OWfYcicM\/132","subscribe_time":1630681243,"remark":"","groupid":0,"tagid_list":[],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 10:07:11.6297]
+[线程：40]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_CMazwf6i_ZbbStw2So02PRqyxh618ECG21Qn7tr7MtVIoZbvzEKgSDOeRLa_r1plY9SGz2uIxtrPG_rQW8A5hrP50O231yQfcFcjR87MkoqqRX2cOe-3Ce2_4Sg5T8TdZBpWVkjImAaOu5uNQJPjADAMFL&openid=ohzyVt6nDhiRLVl413tLQOlFf8f0&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt6nDhiRLVl413tLQOlFf8f0","nickname":"米兰的小铁匠","sex":1,"language":"zh_CN","city":"杭州","province":"浙江","country":"中国","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/ajNVdqHZLLCJxHZ9Jb1vO3ibephTnEXsWRuVbTkSo8MqW55E38d8x8SLulhYyKZfvWGOsFlAvJtpFDwfGTcYQuRJyQHet7aZkiaWM7OWfYcicM\/132","subscribe_time":1630681243,"remark":"","groupid":0,"tagid_list":[],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 10:07:14.0897]
+[线程：64]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_CMazwf6i_ZbbStw2So02PRqyxh618ECG21Qn7tr7MtVIoZbvzEKgSDOeRLa_r1plY9SGz2uIxtrPG_rQW8A5hrP50O231yQfcFcjR87MkoqqRX2cOe-3Ce2_4Sg5T8TdZBpWVkjImAaOu5uNQJPjADAMFL&openid=ohzyVt6nDhiRLVl413tLQOlFf8f0&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt6nDhiRLVl413tLQOlFf8f0","nickname":"米兰的小铁匠","sex":1,"language":"zh_CN","city":"杭州","province":"浙江","country":"中国","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/ajNVdqHZLLCJxHZ9Jb1vO3ibephTnEXsWRuVbTkSo8MqW55E38d8x8SLulhYyKZfvWGOsFlAvJtpFDwfGTcYQuRJyQHet7aZkiaWM7OWfYcicM\/132","subscribe_time":1630681243,"remark":"","groupid":0,"tagid_list":[],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 10:16:05.8456]
+[线程：74]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 10:16:05.8496]
+[线程：74]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 10:16:18.1612]
+[线程：62]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_M-rgi2KeZs_LL6LlE3yNV4JyA0axYBv1em3SnEwIyMufpLiyIc5aXZGoPx-Ah-JdDvVyYRgnRl9WFqmPS6SWSHil6E2baMdFAYI_xfIi3LRipwC3LQA0kOx4c3aHg6kn_xMW8zjo8DXlXqN2JPGbADAOUL&openid=ohzyVt6nDhiRLVl413tLQOlFf8f0&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt6nDhiRLVl413tLQOlFf8f0","nickname":"米兰的小铁匠","sex":1,"language":"zh_CN","city":"杭州","province":"浙江","country":"中国","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/ajNVdqHZLLCJxHZ9Jb1vO3ibephTnEXsWRuVbTkSo8MqW55E38d8x8SLulhYyKZfvWGOsFlAvJtpFDwfGTcYQuRJyQHet7aZkiaWM7OWfYcicM\/132","subscribe_time":1630681243,"remark":"","groupid":0,"tagid_list":[],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 10:16:18.2011]
+[线程：62]
+	URL：https://api.weixin.qq.com/cgi-bin/message/template/send?access_token=48_M-rgi2KeZs_LL6LlE3yNV4JyA0axYBv1em3SnEwIyMufpLiyIc5aXZGoPx-Ah-JdDvVyYRgnRl9WFqmPS6SWSHil6E2baMdFAYI_xfIi3LRipwC3LQA0kOx4c3aHg6kn_xMW8zjo8DXlXqN2JPGbADAOUL
+	Post Data：
+{"touser":"ohzyVt6nDhiRLVl413tLQOlFf8f0","template_id":"DRGKPPqCb2QCEUVyrMAql6DIBSI0U149hIFDg94n5V0","topcolor":"#FF0000","url":"http://www.baidu.com","miniprogram":null,"data":{"first":{"value":"您的订单已经支付","color":"#173177"},"keyword1":{"value":"1234567890","color":"#173177"},"keyword2":{"value":"device01","color":"#173177"},"keyword3":{"value":"20180901","color":"#173177"},"keyword4":{"value":"180","color":"#173177"},"keyword5":{"value":"12","color":"#173177"},"remark":{"value":"欢迎您再次使用","color":"#173177"}}}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 10:34:37.9758]
+[线程：1]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 10:34:37.9798]
+[线程：1]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 10:34:49.6666]
+[线程：42]
+	URL：https://api.weixin.qq.com/cgi-bin/message/template/send?access_token=48_Dh2DgRtYfZONkBhtVgMNPDFoW4QnrwRV8irEUvnbqZ61TIlyHvPMFg2GLaHctTqXfEHAlJJ0prIgdcnk1tjK-P3ppFEIzSAD9NaSXv0Z7bmlpUgMYuuvXE7po39_SVvfBv2S0ulq-qc1BLkQGBDeAJAUPR
+	Post Data：
+{"touser":"ohzyVt0zJr-ifqHU5THdg2376tjc","template_id":"DRGKPPqCb2QCEUVyrMAql6DIBSI0U149hIFDg94n5V0","topcolor":"#FF0000","url":"http://www.baidu.com","miniprogram":null,"data":{"first":{"value":"您的订单已经支付","color":"#173177"},"keyword1":{"value":"1234567890","color":"#173177"},"keyword2":{"value":"device01","color":"#173177"},"keyword3":{"value":"20180901","color":"#173177"},"keyword4":{"value":"180","color":"#173177"},"keyword5":{"value":"12","color":"#173177"},"remark":{"value":"欢迎您再次使用","color":"#173177"}}}
+
+[[[接口调用]]]
+[2021/09/08 10:34:50.5258]
+[线程：42]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/create?access_token=48_Dh2DgRtYfZONkBhtVgMNPDFoW4QnrwRV8irEUvnbqZ61TIlyHvPMFg2GLaHctTqXfEHAlJJ0prIgdcnk1tjK-P3ppFEIzSAD9NaSXv0Z7bmlpUgMYuuvXE7po39_SVvfBv2S0ulq-qc1BLkQGBDeAJAUPR
+	Post Data：
+{"group":{"name":"Group One"}}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 10:39:13.6915]
+[线程：45]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 10:39:13.6955]
+[线程：45]
+微信扩展缓存注册总用时：0.9974ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 10:39:25.6034]
+[线程：7]
+	URL：https://api.weixin.qq.com/cgi-bin/message/template/send?access_token=48_FiK95r0bZVNFVWOVSZD9gU69NrAp2xyCErWrvRlIyes7mzbIKopjZugQa9hXoNATVyIQaUgWB_tZl4o6HjYVNwMAa_1FxuPSjZ1axjyBsJWnpmweNzGmr_8eor1ypelFTqmA3oW-1RZ6GBlyWECjAIANVT
+	Post Data：
+{"touser":"ohzyVt0zJr-ifqHU5THdg2376tjc","template_id":"DRGKPPqCb2QCEUVyrMAql6DIBSI0U149hIFDg94n5V0","topcolor":"#FF0000","url":"http://www.baidu.com","miniprogram":null,"data":{"first":{"value":"您的订单已经支付","color":"#173177"},"keyword1":{"value":"1234567890","color":"#173177"},"keyword2":{"value":"device01","color":"#173177"},"keyword3":{"value":"20180901","color":"#173177"},"keyword4":{"value":"180","color":"#173177"},"keyword5":{"value":"12","color":"#173177"},"remark":{"value":"欢迎您再次使用","color":"#173177"}}}
+
+[[[接口调用]]]
+[2021/09/08 10:39:26.4690]
+[线程：7]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/create?access_token=48_FiK95r0bZVNFVWOVSZD9gU69NrAp2xyCErWrvRlIyes7mzbIKopjZugQa9hXoNATVyIQaUgWB_tZl4o6HjYVNwMAa_1FxuPSjZ1axjyBsJWnpmweNzGmr_8eor1ypelFTqmA3oW-1RZ6GBlyWECjAIANVT
+	Post Data：
+{"group":{"name":"Group Two"}}
+
+[[[接口调用]]]
+[2021/09/08 10:39:27.6629]
+[线程：7]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_FiK95r0bZVNFVWOVSZD9gU69NrAp2xyCErWrvRlIyes7mzbIKopjZugQa9hXoNATVyIQaUgWB_tZl4o6HjYVNwMAa_1FxuPSjZ1axjyBsJWnpmweNzGmr_8eor1ypelFTqmA3oW-1RZ6GBlyWECjAIANVT
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":4},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":0},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":0}]}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 11:05:35.7980]
+[线程：1]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 11:05:35.8020]
+[线程：1]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 11:05:48.9298]
+[线程：63]
+	URL：https://api.weixin.qq.com/cgi-bin/message/template/send?access_token=48_ZEeSkJv2agzlAZ-a77YDPaG9eXyydLufaSSAsj85Honp5ty8LUij8Shm8HXqw7yFgijG2EI223Xp0HOD0IIve9is4BZvUywyghlReJg5K8rkmnUJX4vXqA2l4FD-uk3iRFoghKwE8fztTNf6CRKaAGAMBU
+	Post Data：
+{"touser":"ohzyVt0zJr-ifqHU5THdg2376tjc","template_id":"U8IGrydPVjzTum1vIOj2_mWzgnE9QM6AhfxROSJl6jM","topcolor":"#FF0000","url":"http://www.baidu.com","miniprogram":null,"data":{"first":{"value":"这是一条测试的模板消息","color":"#173177"},"keyword1":{"value":"关键字1","color":"#173177"},"keyword2":{"value":"关键字2","color":"#173177"},"keyword3":{"value":"关键字3","color":"#173177"},"keyword4":{"value":"关键字4","color":"#173177"},"keyword5":{"value":"关键字5","color":"#173177"},"remark":{"value":"测试成功！","color":"#173177"}}}
+
+[[[接口调用]]]
+[2021/09/08 11:05:50.4321]
+[线程：63]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_ZEeSkJv2agzlAZ-a77YDPaG9eXyydLufaSSAsj85Honp5ty8LUij8Shm8HXqw7yFgijG2EI223Xp0HOD0IIve9is4BZvUywyghlReJg5K8rkmnUJX4vXqA2l4FD-uk3iRFoghKwE8fztTNf6CRKaAGAMBU
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":4},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":0},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":0}]}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 11:22:49.6542]
+[线程：61]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 11:22:49.6582]
+[线程：61]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 11:23:01.5223]
+[线程：18]
+	URL：https://api.weixin.qq.com/cgi-bin/message/template/send?access_token=48_NyHy14DO1kUJbBikQUMp826XdyqLYKbhpBV99aVpVxUg44wG41fMwelgSKdUHUjpHQb3zoiZlWXcibYJN6RylHetaiN93QDRxB4IIdV-clSDzneRMsb5hc1FEK9SSS3d0PK266JuNfUO1Y_VUJHcAFAKZX
+	Post Data：
+{"touser":"ohzyVt0zJr-ifqHU5THdg2376tjc","template_id":"U8IGrydPVjzTum1vIOj2_mWzgnE9QM6AhfxROSJl6jM","topcolor":"#FF0000","url":"http://www.baidu.com","miniprogram":null,"data":{"first":{"value":"这是一条测试的模板消息","color":"#173177"},"keyword1":{"value":"关键字1","color":"#173177"},"keyword2":{"value":"关键字2","color":"#173177"},"keyword3":{"value":"关键字3","color":"#173177"},"keyword4":{"value":"关键字4","color":"#173177"},"keyword5":{"value":"关键字5","color":"#173177"},"remark":{"value":"测试成功！","color":"#173177"}}}
+
+[[[接口调用]]]
+[2021/09/08 11:23:03.3092]
+[线程：18]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_NyHy14DO1kUJbBikQUMp826XdyqLYKbhpBV99aVpVxUg44wG41fMwelgSKdUHUjpHQb3zoiZlWXcibYJN6RylHetaiN93QDRxB4IIdV-clSDzneRMsb5hc1FEK9SSS3d0PK266JuNfUO1Y_VUJHcAFAKZX&openid=ohzyVt0zJr-ifqHU5THdg2376tjc&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt0zJr-ifqHU5THdg2376tjc","nickname":"Anna 🦁.","sex":2,"language":"zh_CN","city":"纽卡斯尔","province":"英格兰","country":"英国","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/wzJhLVPsrd3Qm3DVgYzoCYhcibnibL82yuqg2NqN4EniaMb4r2Sugun5KQRicZkY4B2KC299YibyYo6eOvWzQWkiam5RpPrV7OWDBArUXcLNrSueY\/132","subscribe_time":1631093375,"remark":"","groupid":0,"tagid_list":[],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 11:40:17.4831]
+[线程：45]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 11:40:17.4871]
+[线程：45]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 11:40:29.3012]
+[线程：56]
+	URL：https://api.weixin.qq.com/cgi-bin/message/template/send?access_token=48_pqq8sTRtxRQ3udOexpZpeABOQs0Dwov8eculGukUna-u2r9qNzwOkhaBmXpMYN1Ad2nHQE_95pTnVASSdeftgtCi3uNlYEWMQ1LhoSMdTOaW8DzqzsES2fZAN0OwRmYkRUjsW2UxzqYINLpMQKHiAFAYSP
+	Post Data：
+{"touser":"ohzyVt0zJr-ifqHU5THdg2376tjc","template_id":"U8IGrydPVjzTum1vIOj2_mWzgnE9QM6AhfxROSJl6jM","topcolor":"#FF0000","url":"http://www.baidu.com","miniprogram":null,"data":{"first":{"value":"这是一条测试的模板消息","color":"#173177"},"keyword1":{"value":"关键字1","color":"#173177"},"keyword2":{"value":"关键字2","color":"#173177"},"keyword3":{"value":"关键字3","color":"#173177"},"keyword4":{"value":"关键字4","color":"#173177"},"keyword5":{"value":"关键字5","color":"#173177"},"remark":{"value":"测试成功！","color":"#173177"}}}
+
+[[[接口调用]]]
+[2021/09/08 11:40:30.7956]
+[线程：56]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_pqq8sTRtxRQ3udOexpZpeABOQs0Dwov8eculGukUna-u2r9qNzwOkhaBmXpMYN1Ad2nHQE_95pTnVASSdeftgtCi3uNlYEWMQ1LhoSMdTOaW8DzqzsES2fZAN0OwRmYkRUjsW2UxzqYINLpMQKHiAFAYSP&openid=ohzyVt0zJr-ifqHU5THdg2376tjc&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt0zJr-ifqHU5THdg2376tjc","nickname":"Anna 🦁.","sex":2,"language":"zh_CN","city":"纽卡斯尔","province":"英格兰","country":"英国","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/wzJhLVPsrd3Qm3DVgYzoCYhcibnibL82yuqg2NqN4EniaMb4r2Sugun5KQRicZkY4B2KC299YibyYo6eOvWzQWkiam5RpPrV7OWDBArUXcLNrSueY\/132","subscribe_time":1631093375,"remark":"","groupid":0,"tagid_list":[],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 11:40:31.2198]
+[线程：56]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_pqq8sTRtxRQ3udOexpZpeABOQs0Dwov8eculGukUna-u2r9qNzwOkhaBmXpMYN1Ad2nHQE_95pTnVASSdeftgtCi3uNlYEWMQ1LhoSMdTOaW8DzqzsES2fZAN0OwRmYkRUjsW2UxzqYINLpMQKHiAFAYSP
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":3},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":0},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":0}]}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 11:59:29.6512]
+[线程：30]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 11:59:29.6552]
+[线程：30]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 12:00:09.6530]
+[线程：99]
+	URL：https://api.weixin.qq.com/cgi-bin/message/template/send?access_token=48_2Acu9rvr3J_-autx1JDhY9WTR93lAyYqu7sqSDKk8Oopk0jfVxr6kgkkYk1fmX3PL4xK_E9hiHvkNcyAE5orXS3jL5g9n3s4sa9yNIhr8PTkRtMyINzUM-L9j-6L0i5ydEitbWGentTprmp8FGBdAJAQRM
+	Post Data：
+{"touser":"ohzyVt0zJr-ifqHU5THdg2376tjc","template_id":"U8IGrydPVjzTum1vIOj2_mWzgnE9QM6AhfxROSJl6jM","topcolor":"#FF0000","url":"http://www.baidu.com","miniprogram":null,"data":{"first":{"value":"这是一条测试的模板消息","color":"#173177"},"keyword1":{"value":"关键字1","color":"#173177"},"keyword2":{"value":"关键字2","color":"#173177"},"keyword3":{"value":"关键字3","color":"#173177"},"keyword4":{"value":"关键字4","color":"#173177"},"keyword5":{"value":"关键字5","color":"#173177"},"remark":{"value":"测试成功！","color":"#173177"}}}
+
+[[[接口调用]]]
+[2021/09/08 12:00:11.1256]
+[线程：99]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_2Acu9rvr3J_-autx1JDhY9WTR93lAyYqu7sqSDKk8Oopk0jfVxr6kgkkYk1fmX3PL4xK_E9hiHvkNcyAE5orXS3jL5g9n3s4sa9yNIhr8PTkRtMyINzUM-L9j-6L0i5ydEitbWGentTprmp8FGBdAJAQRM&openid=ohzyVt0zJr-ifqHU5THdg2376tjc&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt0zJr-ifqHU5THdg2376tjc","nickname":"Anna 🦁.","sex":2,"language":"zh_CN","city":"纽卡斯尔","province":"英格兰","country":"英国","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/wzJhLVPsrd3Qm3DVgYzoCYhcibnibL82yuqg2NqN4EniaMb4r2Sugun5KQRicZkY4B2KC299YibyYo6eOvWzQWkiam5RpPrV7OWDBArUXcLNrSueY\/132","subscribe_time":1631093375,"remark":"","groupid":0,"tagid_list":[],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 12:00:11.5904]
+[线程：99]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_2Acu9rvr3J_-autx1JDhY9WTR93lAyYqu7sqSDKk8Oopk0jfVxr6kgkkYk1fmX3PL4xK_E9hiHvkNcyAE5orXS3jL5g9n3s4sa9yNIhr8PTkRtMyINzUM-L9j-6L0i5ydEitbWGentTprmp8FGBdAJAQRM
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":3},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":0},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 12:00:11.5934]
+[线程：99]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_2Acu9rvr3J_-autx1JDhY9WTR93lAyYqu7sqSDKk8Oopk0jfVxr6kgkkYk1fmX3PL4xK_E9hiHvkNcyAE5orXS3jL5g9n3s4sa9yNIhr8PTkRtMyINzUM-L9j-6L0i5ydEitbWGentTprmp8FGBdAJAQRM
+	Post Data：
+{"openid":"ohzyVt0zJr-ifqHU5THdg2376tjc"}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 12:01:25.1949]
+[线程：30]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 12:01:25.1989]
+[线程：30]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 12:01:37.4858]
+[线程：72]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_-M33WK9CkoH0A0R7eHynumF4ZmcxmFaLNOqJjzY8do6ARIRHb62jVnpiMLelT_qPcbb1YD3BjzbFGEmGHZ9LVgrZsVNrbpSyiwnu9ddlCuDd13quwAxNmisT0Smdumms40dQa5qbAo-jg2uhLGSdADAUPB&openid=ohzyVt0zJr-ifqHU5THdg2376tjc&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt0zJr-ifqHU5THdg2376tjc","nickname":"Anna 🦁.","sex":2,"language":"zh_CN","city":"纽卡斯尔","province":"英格兰","country":"英国","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/wzJhLVPsrd3Qm3DVgYzoCYhcibnibL82yuqg2NqN4EniaMb4r2Sugun5KQRicZkY4B2KC299YibyYo6eOvWzQWkiam5RpPrV7OWDBArUXcLNrSueY\/132","subscribe_time":1631093375,"remark":"","groupid":0,"tagid_list":[],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 12:01:37.9454]
+[线程：72]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_-M33WK9CkoH0A0R7eHynumF4ZmcxmFaLNOqJjzY8do6ARIRHb62jVnpiMLelT_qPcbb1YD3BjzbFGEmGHZ9LVgrZsVNrbpSyiwnu9ddlCuDd13quwAxNmisT0Smdumms40dQa5qbAo-jg2uhLGSdADAUPB
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":3},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":0},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 12:01:37.9723]
+[线程：72]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/members/update?access_token=48_-M33WK9CkoH0A0R7eHynumF4ZmcxmFaLNOqJjzY8do6ARIRHb62jVnpiMLelT_qPcbb1YD3BjzbFGEmGHZ9LVgrZsVNrbpSyiwnu9ddlCuDd13quwAxNmisT0Smdumms40dQa5qbAo-jg2uhLGSdADAUPB
+	Post Data：
+{"openid":"ohzyVt0zJr-ifqHU5THdg2376tjc","to_groupid":5}
+
+[[[ErrorJsonResultException]]]
+[2021/09/08 12:01:38.7240]
+[线程：72]
+	ErrorJsonResultException
+	AccessTokenOrAppId：null
+	URL：https://api.weixin.qq.com/cgi-bin/groups/members/update?access_token=48_-M33WK9CkoH0A0R7eHynumF4ZmcxmFaLNOqJjzY8do6ARIRHb62jVnpiMLelT_qPcbb1YD3BjzbFGEmGHZ9LVgrZsVNrbpSyiwnu9ddlCuDd13quwAxNmisT0Smdumms40dQa5qbAo-jg2uhLGSdADAUPB
+	errcode：40152
+	errmsg：invalid group id hint: [ajDeGoLoRa-RcYMAA] rid: 61389812-384811ab-2cd26aeb
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 12:02:34.1273]
+[线程：30]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 12:02:34.1313]
+[线程：30]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 12:02:46.5087]
+[线程：12]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_P8rdNgHGfFRoBaPvbwbc2pjkXJQC91_9iWPuP26yt2J4o4T-LDOGdiyJnbqNCM76E0TlyHtlBHEpK7nSQkpCLc6usD1RROEnsTmNwDhvqhgTUe6eAmhODd2sq7QM46XXocFN5W7GeGndxGBQSAIbADAFNV&openid=ohzyVt0zJr-ifqHU5THdg2376tjc&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt0zJr-ifqHU5THdg2376tjc","nickname":"Anna 🦁.","sex":2,"language":"zh_CN","city":"纽卡斯尔","province":"英格兰","country":"英国","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/wzJhLVPsrd3Qm3DVgYzoCYhcibnibL82yuqg2NqN4EniaMb4r2Sugun5KQRicZkY4B2KC299YibyYo6eOvWzQWkiam5RpPrV7OWDBArUXcLNrSueY\/132","subscribe_time":1631093375,"remark":"","groupid":0,"tagid_list":[],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 12:02:46.9822]
+[线程：12]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_P8rdNgHGfFRoBaPvbwbc2pjkXJQC91_9iWPuP26yt2J4o4T-LDOGdiyJnbqNCM76E0TlyHtlBHEpK7nSQkpCLc6usD1RROEnsTmNwDhvqhgTUe6eAmhODd2sq7QM46XXocFN5W7GeGndxGBQSAIbADAFNV
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":3},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":0},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 12:02:47.0081]
+[线程：12]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/members/update?access_token=48_P8rdNgHGfFRoBaPvbwbc2pjkXJQC91_9iWPuP26yt2J4o4T-LDOGdiyJnbqNCM76E0TlyHtlBHEpK7nSQkpCLc6usD1RROEnsTmNwDhvqhgTUe6eAmhODd2sq7QM46XXocFN5W7GeGndxGBQSAIbADAFNV
+	Post Data：
+{"openid":"ohzyVt0zJr-ifqHU5THdg2376tjc","to_groupid":1}
+
+[[[接口调用]]]
+[2021/09/08 12:02:47.8843]
+[线程：12]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_P8rdNgHGfFRoBaPvbwbc2pjkXJQC91_9iWPuP26yt2J4o4T-LDOGdiyJnbqNCM76E0TlyHtlBHEpK7nSQkpCLc6usD1RROEnsTmNwDhvqhgTUe6eAmhODd2sq7QM46XXocFN5W7GeGndxGBQSAIbADAFNV
+	Post Data：
+{"openid":"ohzyVt0zJr-ifqHU5THdg2376tjc"}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 12:05:18.7237]
+[线程：30]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 12:05:18.7277]
+[线程：30]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 12:05:31.8211]
+[线程：67]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_iOaosILyPIPExr1yORqLILaTnAcaLQ9h-jqbDn8PCWqL78RJYWpb0E6qAn0rXGBXL0VFKUdY4Rq7QoLmK5Z3vCsruyc9RJcU3ZiWpXDqsFPe-GIHYwBHtAHnYQSZTyjZmLR3-Dd523cYwwf3KCNhAHACUF&openid=ohzyVt0zJr-ifqHU5THdg2376tjc&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt0zJr-ifqHU5THdg2376tjc","nickname":"Anna 🦁.","sex":2,"language":"zh_CN","city":"纽卡斯尔","province":"英格兰","country":"英国","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/wzJhLVPsrd3Qm3DVgYzoCYhcibnibL82yuqg2NqN4EniaMb4r2Sugun5KQRicZkY4B2KC299YibyYo6eOvWzQWkiam5RpPrV7OWDBArUXcLNrSueY\/132","subscribe_time":1631093375,"remark":"","groupid":0,"tagid_list":[],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 12:05:32.2847]
+[线程：67]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_iOaosILyPIPExr1yORqLILaTnAcaLQ9h-jqbDn8PCWqL78RJYWpb0E6qAn0rXGBXL0VFKUdY4Rq7QoLmK5Z3vCsruyc9RJcU3ZiWpXDqsFPe-GIHYwBHtAHnYQSZTyjZmLR3-Dd523cYwwf3KCNhAHACUF
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":3},{"id":1,"name":"黑名单","count":1},{"id":2,"name":"星标组","count":0},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 12:05:32.3107]
+[线程：67]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_iOaosILyPIPExr1yORqLILaTnAcaLQ9h-jqbDn8PCWqL78RJYWpb0E6qAn0rXGBXL0VFKUdY4Rq7QoLmK5Z3vCsruyc9RJcU3ZiWpXDqsFPe-GIHYwBHtAHnYQSZTyjZmLR3-Dd523cYwwf3KCNhAHACUF
+	Post Data：
+{"openid":"ohzyVt0zJr-ifqHU5THdg2376tjc"}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 12:06:18.1131]
+[线程：1]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 12:06:18.1181]
+[线程：1]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 12:06:31.2337]
+[线程：98]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_uVpKjmF6HLd_x5swRwdIv-F8kvQAlvoBTkGLF-EMP871-Gk3J_ogwxeEgegDohg7MpwR6qlg8qObgXTJplob21aiAAso48BCa7UoU_RNuD6akw14HL-8wj4mIU6ztpxwqUleu8VigWGfIHFDZIZgAEADMD&openid=ohzyVt0zJr-ifqHU5THdg2376tjc&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt0zJr-ifqHU5THdg2376tjc","nickname":"Anna 🦁.","sex":2,"language":"zh_CN","city":"纽卡斯尔","province":"英格兰","country":"英国","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/wzJhLVPsrd3Qm3DVgYzoCYhcibnibL82yuqg2NqN4EniaMb4r2Sugun5KQRicZkY4B2KC299YibyYo6eOvWzQWkiam5RpPrV7OWDBArUXcLNrSueY\/132","subscribe_time":1631093375,"remark":"","groupid":0,"tagid_list":[],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 12:06:31.6937]
+[线程：98]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_uVpKjmF6HLd_x5swRwdIv-F8kvQAlvoBTkGLF-EMP871-Gk3J_ogwxeEgegDohg7MpwR6qlg8qObgXTJplob21aiAAso48BCa7UoU_RNuD6akw14HL-8wj4mIU6ztpxwqUleu8VigWGfIHFDZIZgAEADMD
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":3},{"id":1,"name":"黑名单","count":1},{"id":2,"name":"星标组","count":0},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 12:06:31.7216]
+[线程：98]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/members/update?access_token=48_uVpKjmF6HLd_x5swRwdIv-F8kvQAlvoBTkGLF-EMP871-Gk3J_ogwxeEgegDohg7MpwR6qlg8qObgXTJplob21aiAAso48BCa7UoU_RNuD6akw14HL-8wj4mIU6ztpxwqUleu8VigWGfIHFDZIZgAEADMD
+	Post Data：
+{"openid":"ohzyVt0zJr-ifqHU5THdg2376tjc","to_groupid":101}
+
+[[[接口调用]]]
+[2021/09/08 12:06:32.6301]
+[线程：98]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_uVpKjmF6HLd_x5swRwdIv-F8kvQAlvoBTkGLF-EMP871-Gk3J_ogwxeEgegDohg7MpwR6qlg8qObgXTJplob21aiAAso48BCa7UoU_RNuD6akw14HL-8wj4mIU6ztpxwqUleu8VigWGfIHFDZIZgAEADMD
+	Post Data：
+{"openid":"ohzyVt0zJr-ifqHU5THdg2376tjc"}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 12:35:50.5942]
+[线程：30]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 12:35:50.5982]
+[线程：30]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 12:36:03.0475]
+[线程：98]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_UrqfF3hLPs3joSqOlL0CpXxz9NB3nx4eOVY52EKtkbYy6Wf6GIQd12VPv5iZ7HlsMCcuWGprlO3H7S6rFycn-w2-TWvHRYRJp67v98qC14nSYDhTxlbzmnDQJhhBWafR5XRRdhqFUefa1OjlUASdAFAGME&openid=ohzyVt-Lzj2073Gq23KLRk7HAcPo&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo","nickname":"Viki小助理","sex":2,"language":"zh_CN","city":"","province":"","country":"","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/7jCILdeOs9cZiaZwlcSIl8JIHIrcCxyTnJiciagCLeYOFibdX2ibhfSOiaZHtf1kN8USiceFB51mn96CyqMGldze04Lr9M0sibjfJiaVC\/132","subscribe_time":1631093232,"remark":"","groupid":0,"tagid_list":[],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 12:36:03.5082]
+[线程：98]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_UrqfF3hLPs3joSqOlL0CpXxz9NB3nx4eOVY52EKtkbYy6Wf6GIQd12VPv5iZ7HlsMCcuWGprlO3H7S6rFycn-w2-TWvHRYRJp67v98qC14nSYDhTxlbzmnDQJhhBWafR5XRRdhqFUefa1OjlUASdAFAGME
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":2},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":0},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1}]}
+
+[[[接口调用]]]
+[2021/09/08 12:36:03.5351]
+[线程：98]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_UrqfF3hLPs3joSqOlL0CpXxz9NB3nx4eOVY52EKtkbYy6Wf6GIQd12VPv5iZ7HlsMCcuWGprlO3H7S6rFycn-w2-TWvHRYRJp67v98qC14nSYDhTxlbzmnDQJhhBWafR5XRRdhqFUefa1OjlUASdAFAGME
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 12:36:04.2746]
+[线程：98]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/create?access_token=48_UrqfF3hLPs3joSqOlL0CpXxz9NB3nx4eOVY52EKtkbYy6Wf6GIQd12VPv5iZ7HlsMCcuWGprlO3H7S6rFycn-w2-TWvHRYRJp67v98qC14nSYDhTxlbzmnDQJhhBWafR5XRRdhqFUefa1OjlUASdAFAGME
+	Post Data：
+{"tag":{"name":"Test Tag1"}}
+
+[[[接口调用]]]
+[2021/09/08 12:36:05.0328]
+[线程：98]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/create?access_token=48_UrqfF3hLPs3joSqOlL0CpXxz9NB3nx4eOVY52EKtkbYy6Wf6GIQd12VPv5iZ7HlsMCcuWGprlO3H7S6rFycn-w2-TWvHRYRJp67v98qC14nSYDhTxlbzmnDQJhhBWafR5XRRdhqFUefa1OjlUASdAFAGME
+	Post Data：
+{"tag":{"name":"Test Tag2"}}
+
+[[[接口调用]]]
+[2021/09/08 12:36:05.7725]
+[线程：98]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/create?access_token=48_UrqfF3hLPs3joSqOlL0CpXxz9NB3nx4eOVY52EKtkbYy6Wf6GIQd12VPv5iZ7HlsMCcuWGprlO3H7S6rFycn-w2-TWvHRYRJp67v98qC14nSYDhTxlbzmnDQJhhBWafR5XRRdhqFUefa1OjlUASdAFAGME
+	Post Data：
+{"tag":{"name":"Test Tag3"}}
+
+[[[接口调用]]]
+[2021/09/08 12:36:06.9331]
+[线程：98]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/get?access_token=48_UrqfF3hLPs3joSqOlL0CpXxz9NB3nx4eOVY52EKtkbYy6Wf6GIQd12VPv5iZ7HlsMCcuWGprlO3H7S6rFycn-w2-TWvHRYRJp67v98qC14nSYDhTxlbzmnDQJhhBWafR5XRRdhqFUefa1OjlUASdAFAGME
+	Result：
+{"tags":[{"id":2,"name":"星标组","count":0},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 12:36:06.9381]
+[线程：98]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/members/batchtagging?access_token=48_UrqfF3hLPs3joSqOlL0CpXxz9NB3nx4eOVY52EKtkbYy6Wf6GIQd12VPv5iZ7HlsMCcuWGprlO3H7S6rFycn-w2-TWvHRYRJp67v98qC14nSYDhTxlbzmnDQJhhBWafR5XRRdhqFUefa1OjlUASdAFAGME
+	Post Data：
+{"openid_list":["ohzyVt-Lzj2073Gq23KLRk7HAcPo","ohzyVt0zJr-ifqHU5THdg2376tjc","ohzyVt6nDhiRLVl413tLQOlFf8f0"],"tagid":2}
+
+[[[接口调用]]]
+[2021/09/08 12:36:07.7319]
+[线程：98]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/getidlist?access_token=48_UrqfF3hLPs3joSqOlL0CpXxz9NB3nx4eOVY52EKtkbYy6Wf6GIQd12VPv5iZ7HlsMCcuWGprlO3H7S6rFycn-w2-TWvHRYRJp67v98qC14nSYDhTxlbzmnDQJhhBWafR5XRRdhqFUefa1OjlUASdAFAGME
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 12:36:39.2696]
+[线程：99]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_UrqfF3hLPs3joSqOlL0CpXxz9NB3nx4eOVY52EKtkbYy6Wf6GIQd12VPv5iZ7HlsMCcuWGprlO3H7S6rFycn-w2-TWvHRYRJp67v98qC14nSYDhTxlbzmnDQJhhBWafR5XRRdhqFUefa1OjlUASdAFAGME&openid=ohzyVt-Lzj2073Gq23KLRk7HAcPo&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo","nickname":"Viki小助理","sex":2,"language":"zh_CN","city":"","province":"","country":"","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/7jCILdeOs9cZiaZwlcSIl8JIHIrcCxyTnJiciagCLeYOFibdX2ibhfSOiaZHtf1kN8USiceFB51mn96CyqMGldze04Lr9M0sibjfJiaVC\/132","subscribe_time":1631093232,"remark":"","groupid":2,"tagid_list":[2],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 12:36:39.6835]
+[线程：99]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_UrqfF3hLPs3joSqOlL0CpXxz9NB3nx4eOVY52EKtkbYy6Wf6GIQd12VPv5iZ7HlsMCcuWGprlO3H7S6rFycn-w2-TWvHRYRJp67v98qC14nSYDhTxlbzmnDQJhhBWafR5XRRdhqFUefa1OjlUASdAFAGME
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 12:36:39.6835]
+[线程：99]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_UrqfF3hLPs3joSqOlL0CpXxz9NB3nx4eOVY52EKtkbYy6Wf6GIQd12VPv5iZ7HlsMCcuWGprlO3H7S6rFycn-w2-TWvHRYRJp67v98qC14nSYDhTxlbzmnDQJhhBWafR5XRRdhqFUefa1OjlUASdAFAGME
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":0},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 12:36:40.4085]
+[线程：99]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/create?access_token=48_UrqfF3hLPs3joSqOlL0CpXxz9NB3nx4eOVY52EKtkbYy6Wf6GIQd12VPv5iZ7HlsMCcuWGprlO3H7S6rFycn-w2-TWvHRYRJp67v98qC14nSYDhTxlbzmnDQJhhBWafR5XRRdhqFUefa1OjlUASdAFAGME
+	Post Data：
+{"tag":{"name":"Test Tag1"}}
+
+[[[ErrorJsonResultException]]]
+[2021/09/08 12:36:41.1156]
+[线程：99]
+	ErrorJsonResultException
+	AccessTokenOrAppId：null
+	URL：https://api.weixin.qq.com/cgi-bin/tags/create?access_token=48_UrqfF3hLPs3joSqOlL0CpXxz9NB3nx4eOVY52EKtkbYy6Wf6GIQd12VPv5iZ7HlsMCcuWGprlO3H7S6rFycn-w2-TWvHRYRJp67v98qC14nSYDhTxlbzmnDQJhhBWafR5XRRdhqFUefa1OjlUASdAFAGME
+	errcode：标签名非法请注意不能和其他标签重名
+	errmsg：invalid tag name hint: [RjDeUcQNe-7tdCaa] rid: 6138a048-35665210-1f308f97
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 12:37:18.4465]
+[线程：1]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 12:37:18.4505]
+[线程：1]
+微信扩展缓存注册总用时：0.9972ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 12:37:30.8716]
+[线程：31]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_8D1lsAEUGSlGvWpg1VvZ7mg01wxXZiAIP-h6t4lDK3p6BOIUjGd2cbboHHxIN6v_w7IUF9b5deNK__WsArjI1NpPPjQv7U72eUDDfVS3r7DNm1WX_PmdOa4XFWO_08YndFO3AdNjW_9xAuhSIZAfADARIJ&openid=ohzyVt-Lzj2073Gq23KLRk7HAcPo&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo","nickname":"Viki小助理","sex":2,"language":"zh_CN","city":"","province":"","country":"","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/7jCILdeOs9cZiaZwlcSIl8JIHIrcCxyTnJiciagCLeYOFibdX2ibhfSOiaZHtf1kN8USiceFB51mn96CyqMGldze04Lr9M0sibjfJiaVC\/132","subscribe_time":1631093232,"remark":"","groupid":2,"tagid_list":[2],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 12:37:31.3432]
+[线程：31]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_8D1lsAEUGSlGvWpg1VvZ7mg01wxXZiAIP-h6t4lDK3p6BOIUjGd2cbboHHxIN6v_w7IUF9b5deNK__WsArjI1NpPPjQv7U72eUDDfVS3r7DNm1WX_PmdOa4XFWO_08YndFO3AdNjW_9xAuhSIZAfADARIJ
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":0},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 12:37:31.3700]
+[线程：31]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_8D1lsAEUGSlGvWpg1VvZ7mg01wxXZiAIP-h6t4lDK3p6BOIUjGd2cbboHHxIN6v_w7IUF9b5deNK__WsArjI1NpPPjQv7U72eUDDfVS3r7DNm1WX_PmdOa4XFWO_08YndFO3AdNjW_9xAuhSIZAfADARIJ
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 12:37:32.5153]
+[线程：31]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/get?access_token=48_8D1lsAEUGSlGvWpg1VvZ7mg01wxXZiAIP-h6t4lDK3p6BOIUjGd2cbboHHxIN6v_w7IUF9b5deNK__WsArjI1NpPPjQv7U72eUDDfVS3r7DNm1WX_PmdOa4XFWO_08YndFO3AdNjW_9xAuhSIZAfADARIJ
+	Result：
+{"tags":[{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 12:37:32.5203]
+[线程：31]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/members/batchtagging?access_token=48_8D1lsAEUGSlGvWpg1VvZ7mg01wxXZiAIP-h6t4lDK3p6BOIUjGd2cbboHHxIN6v_w7IUF9b5deNK__WsArjI1NpPPjQv7U72eUDDfVS3r7DNm1WX_PmdOa4XFWO_08YndFO3AdNjW_9xAuhSIZAfADARIJ
+	Post Data：
+{"openid_list":["ohzyVt-Lzj2073Gq23KLRk7HAcPo","ohzyVt0zJr-ifqHU5THdg2376tjc","ohzyVt6nDhiRLVl413tLQOlFf8f0"],"tagid":2}
+
+[[[接口调用]]]
+[2021/09/08 12:37:33.2742]
+[线程：31]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/getidlist?access_token=48_8D1lsAEUGSlGvWpg1VvZ7mg01wxXZiAIP-h6t4lDK3p6BOIUjGd2cbboHHxIN6v_w7IUF9b5deNK__WsArjI1NpPPjQv7U72eUDDfVS3r7DNm1WX_PmdOa4XFWO_08YndFO3AdNjW_9xAuhSIZAfADARIJ
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 12:41:28.9446]
+[线程：45]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 12:41:28.9486]
+[线程：45]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 12:41:41.2396]
+[线程：101]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_5VreBLiRyi8zSQtIdcroJChDr-OTMl3Jc4ULGx_SphbaAJydXut31p2BToJpdPRLdpXtNoSoGxT9XIWgc7RzfrkqF_fQe1r4wmmfMGCDQrnBgzjeTm75DiC8f9nf5maNyoEQR5QQ37i1icO4JAGeADADUA&openid=ohzyVt-Lzj2073Gq23KLRk7HAcPo&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo","nickname":"Viki小助理","sex":2,"language":"zh_CN","city":"","province":"","country":"","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/7jCILdeOs9cZiaZwlcSIl8JIHIrcCxyTnJiciagCLeYOFibdX2ibhfSOiaZHtf1kN8USiceFB51mn96CyqMGldze04Lr9M0sibjfJiaVC\/132","subscribe_time":1631093232,"remark":"","groupid":2,"tagid_list":[2],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 12:41:41.7034]
+[线程：101]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_5VreBLiRyi8zSQtIdcroJChDr-OTMl3Jc4ULGx_SphbaAJydXut31p2BToJpdPRLdpXtNoSoGxT9XIWgc7RzfrkqF_fQe1r4wmmfMGCDQrnBgzjeTm75DiC8f9nf5maNyoEQR5QQ37i1icO4JAGeADADUA
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":0},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 12:41:41.7303]
+[线程：101]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_5VreBLiRyi8zSQtIdcroJChDr-OTMl3Jc4ULGx_SphbaAJydXut31p2BToJpdPRLdpXtNoSoGxT9XIWgc7RzfrkqF_fQe1r4wmmfMGCDQrnBgzjeTm75DiC8f9nf5maNyoEQR5QQ37i1icO4JAGeADADUA
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 12:41:42.8573]
+[线程：101]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/get?access_token=48_5VreBLiRyi8zSQtIdcroJChDr-OTMl3Jc4ULGx_SphbaAJydXut31p2BToJpdPRLdpXtNoSoGxT9XIWgc7RzfrkqF_fQe1r4wmmfMGCDQrnBgzjeTm75DiC8f9nf5maNyoEQR5QQ37i1icO4JAGeADADUA
+	Result：
+{"tags":[{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 12:41:42.8624]
+[线程：101]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/members/batchtagging?access_token=48_5VreBLiRyi8zSQtIdcroJChDr-OTMl3Jc4ULGx_SphbaAJydXut31p2BToJpdPRLdpXtNoSoGxT9XIWgc7RzfrkqF_fQe1r4wmmfMGCDQrnBgzjeTm75DiC8f9nf5maNyoEQR5QQ37i1icO4JAGeADADUA
+	Post Data：
+{"openid_list":["ohzyVt-Lzj2073Gq23KLRk7HAcPo","ohzyVt0zJr-ifqHU5THdg2376tjc","ohzyVt6nDhiRLVl413tLQOlFf8f0"],"tagid":2}
+
+[[[接口调用]]]
+[2021/09/08 12:41:43.5642]
+[线程：101]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/getidlist?access_token=48_5VreBLiRyi8zSQtIdcroJChDr-OTMl3Jc4ULGx_SphbaAJydXut31p2BToJpdPRLdpXtNoSoGxT9XIWgc7RzfrkqF_fQe1r4wmmfMGCDQrnBgzjeTm75DiC8f9nf5maNyoEQR5QQ37i1icO4JAGeADADUA
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 12:43:19.2532]
+[线程：72]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_5VreBLiRyi8zSQtIdcroJChDr-OTMl3Jc4ULGx_SphbaAJydXut31p2BToJpdPRLdpXtNoSoGxT9XIWgc7RzfrkqF_fQe1r4wmmfMGCDQrnBgzjeTm75DiC8f9nf5maNyoEQR5QQ37i1icO4JAGeADADUA&openid=ohzyVt-Lzj2073Gq23KLRk7HAcPo&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo","nickname":"Viki小助理","sex":2,"language":"zh_CN","city":"","province":"","country":"","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/7jCILdeOs9cZiaZwlcSIl8JIHIrcCxyTnJiciagCLeYOFibdX2ibhfSOiaZHtf1kN8USiceFB51mn96CyqMGldze04Lr9M0sibjfJiaVC\/132","subscribe_time":1631093232,"remark":"","groupid":2,"tagid_list":[2],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 12:43:19.6830]
+[线程：72]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_5VreBLiRyi8zSQtIdcroJChDr-OTMl3Jc4ULGx_SphbaAJydXut31p2BToJpdPRLdpXtNoSoGxT9XIWgc7RzfrkqF_fQe1r4wmmfMGCDQrnBgzjeTm75DiC8f9nf5maNyoEQR5QQ37i1icO4JAGeADADUA
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":0},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 12:43:19.6830]
+[线程：72]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_5VreBLiRyi8zSQtIdcroJChDr-OTMl3Jc4ULGx_SphbaAJydXut31p2BToJpdPRLdpXtNoSoGxT9XIWgc7RzfrkqF_fQe1r4wmmfMGCDQrnBgzjeTm75DiC8f9nf5maNyoEQR5QQ37i1icO4JAGeADADUA
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 12:43:20.8138]
+[线程：72]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/members/batchtagging?access_token=48_5VreBLiRyi8zSQtIdcroJChDr-OTMl3Jc4ULGx_SphbaAJydXut31p2BToJpdPRLdpXtNoSoGxT9XIWgc7RzfrkqF_fQe1r4wmmfMGCDQrnBgzjeTm75DiC8f9nf5maNyoEQR5QQ37i1icO4JAGeADADUA
+	Post Data：
+{"openid_list":["ohzyVt-Lzj2073Gq23KLRk7HAcPo","ohzyVt0zJr-ifqHU5THdg2376tjc","ohzyVt6nDhiRLVl413tLQOlFf8f0"],"tagid":2}
+
+[[[接口调用]]]
+[2021/09/08 12:43:20.8138]
+[线程：72]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/get?access_token=48_5VreBLiRyi8zSQtIdcroJChDr-OTMl3Jc4ULGx_SphbaAJydXut31p2BToJpdPRLdpXtNoSoGxT9XIWgc7RzfrkqF_fQe1r4wmmfMGCDQrnBgzjeTm75DiC8f9nf5maNyoEQR5QQ37i1icO4JAGeADADUA
+	Result：
+{"tags":[{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 12:43:21.5698]
+[线程：72]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/getidlist?access_token=48_5VreBLiRyi8zSQtIdcroJChDr-OTMl3Jc4ULGx_SphbaAJydXut31p2BToJpdPRLdpXtNoSoGxT9XIWgc7RzfrkqF_fQe1r4wmmfMGCDQrnBgzjeTm75DiC8f9nf5maNyoEQR5QQ37i1icO4JAGeADADUA
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 14:16:50.5885]
+[线程：74]
+注册总用时：0.9985ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 14:16:50.5924]
+[线程：74]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 14:17:02.2327]
+[线程：42]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_hHpIPMb1bWf7ZDvPxpZpeABOQs0Dwov8eculGhsZYluvlSY3iF3CTOigWqUnVqniD8raj-yNATzVKoE0mBfcFxIsUrnTqXb9zPmsRAHW9Oi0CcbOsYDOu6r4oPfy7haKT7-q1MlHJc2RP8bQGUHaAJAAOB&openid=ohzyVt-Lzj2073Gq23KLRk7HAcPo&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo","nickname":"Viki小助理","sex":2,"language":"zh_CN","city":"","province":"","country":"","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/7jCILdeOs9cZiaZwlcSIl8JIHIrcCxyTnJiciagCLeYOFibdX2ibhfSOiaZHtf1kN8USiceFB51mn96CyqMGldze04Lr9M0sibjfJiaVC\/132","subscribe_time":1631093232,"remark":"","groupid":2,"tagid_list":[2],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 14:17:02.6677]
+[线程：42]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_hHpIPMb1bWf7ZDvPxpZpeABOQs0Dwov8eculGhsZYluvlSY3iF3CTOigWqUnVqniD8raj-yNATzVKoE0mBfcFxIsUrnTqXb9zPmsRAHW9Oi0CcbOsYDOu6r4oPfy7haKT7-q1MlHJc2RP8bQGUHaAJAAOB
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":0},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:17:02.6946]
+[线程：42]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_hHpIPMb1bWf7ZDvPxpZpeABOQs0Dwov8eculGhsZYluvlSY3iF3CTOigWqUnVqniD8raj-yNATzVKoE0mBfcFxIsUrnTqXb9zPmsRAHW9Oi0CcbOsYDOu6r4oPfy7haKT7-q1MlHJc2RP8bQGUHaAJAAOB
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:17:02.8296]
+[线程：65]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_hHpIPMb1bWf7ZDvPxpZpeABOQs0Dwov8eculGhsZYluvlSY3iF3CTOigWqUnVqniD8raj-yNATzVKoE0mBfcFxIsUrnTqXb9zPmsRAHW9Oi0CcbOsYDOu6r4oPfy7haKT7-q1MlHJc2RP8bQBJXaAJAIQE&openid=ohzyVt-Lzj2073Gq23KLRk7HAcPo&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo","nickname":"Viki小助理","sex":2,"language":"zh_CN","city":"","province":"","country":"","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/7jCILdeOs9cZiaZwlcSIl8JIHIrcCxyTnJiciagCLeYOFibdX2ibhfSOiaZHtf1kN8USiceFB51mn96CyqMGldze04Lr9M0sibjfJiaVC\/132","subscribe_time":1631093232,"remark":"","groupid":2,"tagid_list":[2],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 14:17:03.2837]
+[线程：65]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_hHpIPMb1bWf7ZDvPxpZpeABOQs0Dwov8eculGhsZYluvlSY3iF3CTOigWqUnVqniD8raj-yNATzVKoE0mBfcFxIsUrnTqXb9zPmsRAHW9Oi0CcbOsYDOu6r4oPfy7haKT7-q1MlHJc2RP8bQBJXaAJAIQE
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:17:03.2837]
+[线程：65]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_hHpIPMb1bWf7ZDvPxpZpeABOQs0Dwov8eculGhsZYluvlSY3iF3CTOigWqUnVqniD8raj-yNATzVKoE0mBfcFxIsUrnTqXb9zPmsRAHW9Oi0CcbOsYDOu6r4oPfy7haKT7-q1MlHJc2RP8bQBJXaAJAIQE
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":0},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:17:03.9073]
+[线程：42]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/get?access_token=48_hHpIPMb1bWf7ZDvPxpZpeABOQs0Dwov8eculGhsZYluvlSY3iF3CTOigWqUnVqniD8raj-yNATzVKoE0mBfcFxIsUrnTqXb9zPmsRAHW9Oi0CcbOsYDOu6r4oPfy7haKT7-q1MlHJc2RP8bQGUHaAJAAOB
+	Result：
+{"tags":[{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:17:03.9124]
+[线程：42]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/members/batchtagging?access_token=48_hHpIPMb1bWf7ZDvPxpZpeABOQs0Dwov8eculGhsZYluvlSY3iF3CTOigWqUnVqniD8raj-yNATzVKoE0mBfcFxIsUrnTqXb9zPmsRAHW9Oi0CcbOsYDOu6r4oPfy7haKT7-q1MlHJc2RP8bQGUHaAJAAOB
+	Post Data：
+{"openid_list":["ohzyVt-Lzj2073Gq23KLRk7HAcPo","ohzyVt0zJr-ifqHU5THdg2376tjc","ohzyVt6nDhiRLVl413tLQOlFf8f0"],"tagid":2}
+
+[[[接口调用]]]
+[2021/09/08 14:17:04.4187]
+[线程：65]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/get?access_token=48_hHpIPMb1bWf7ZDvPxpZpeABOQs0Dwov8eculGhsZYluvlSY3iF3CTOigWqUnVqniD8raj-yNATzVKoE0mBfcFxIsUrnTqXb9zPmsRAHW9Oi0CcbOsYDOu6r4oPfy7haKT7-q1MlHJc2RP8bQBJXaAJAIQE
+	Result：
+{"tags":[{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:17:04.4197]
+[线程：65]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/members/batchtagging?access_token=48_hHpIPMb1bWf7ZDvPxpZpeABOQs0Dwov8eculGhsZYluvlSY3iF3CTOigWqUnVqniD8raj-yNATzVKoE0mBfcFxIsUrnTqXb9zPmsRAHW9Oi0CcbOsYDOu6r4oPfy7haKT7-q1MlHJc2RP8bQBJXaAJAIQE
+	Post Data：
+{"openid_list":["ohzyVt-Lzj2073Gq23KLRk7HAcPo","ohzyVt0zJr-ifqHU5THdg2376tjc","ohzyVt6nDhiRLVl413tLQOlFf8f0"],"tagid":2}
+
+[[[接口调用]]]
+[2021/09/08 14:17:04.6786]
+[线程：42]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/getidlist?access_token=48_hHpIPMb1bWf7ZDvPxpZpeABOQs0Dwov8eculGhsZYluvlSY3iF3CTOigWqUnVqniD8raj-yNATzVKoE0mBfcFxIsUrnTqXb9zPmsRAHW9Oi0CcbOsYDOu6r4oPfy7haKT7-q1MlHJc2RP8bQGUHaAJAAOB
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:17:05.1674]
+[线程：65]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/getidlist?access_token=48_hHpIPMb1bWf7ZDvPxpZpeABOQs0Dwov8eculGhsZYluvlSY3iF3CTOigWqUnVqniD8raj-yNATzVKoE0mBfcFxIsUrnTqXb9zPmsRAHW9Oi0CcbOsYDOu6r4oPfy7haKT7-q1MlHJc2RP8bQBJXaAJAIQE
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:17:05.3938]
+[线程：42]
+	URL：https://api.weixin.qq.com/cgi-bin/user/tag/get?access_token=48_hHpIPMb1bWf7ZDvPxpZpeABOQs0Dwov8eculGhsZYluvlSY3iF3CTOigWqUnVqniD8raj-yNATzVKoE0mBfcFxIsUrnTqXb9zPmsRAHW9Oi0CcbOsYDOu6r4oPfy7haKT7-q1MlHJc2RP8bQGUHaAJAAOB
+	Post Data：
+{"tagid":2,"next_openid":""}
+
+[[[接口调用]]]
+[2021/09/08 14:17:05.8937]
+[线程：65]
+	URL：https://api.weixin.qq.com/cgi-bin/user/tag/get?access_token=48_hHpIPMb1bWf7ZDvPxpZpeABOQs0Dwov8eculGhsZYluvlSY3iF3CTOigWqUnVqniD8raj-yNATzVKoE0mBfcFxIsUrnTqXb9zPmsRAHW9Oi0CcbOsYDOu6r4oPfy7haKT7-q1MlHJc2RP8bQBJXaAJAIQE
+	Post Data：
+{"tagid":2,"next_openid":""}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 14:21:15.5354]
+[线程：44]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 14:21:15.5404]
+[线程：44]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 14:21:27.8163]
+[线程：12]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_I5zQB9GCORQhHGAM_yTrgtzpq8oFFTSao3njgHlUtPGJM0rmmTbkbAMgyvEoseMa7wLtKvJJFwZ9Z1T3XYMQkmozbF2fnVE0PZ6ttUeY5MnV7QCx6_DK4uzbDzUuOa8FQ9D2WEQ1aywlPPBHOQTiAIAZBE&openid=ohzyVt-Lzj2073Gq23KLRk7HAcPo&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo","nickname":"Viki小助理","sex":2,"language":"zh_CN","city":"","province":"","country":"","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/7jCILdeOs9cZiaZwlcSIl8JIHIrcCxyTnJiciagCLeYOFibdX2ibhfSOiaZHtf1kN8USiceFB51mn96CyqMGldze04Lr9M0sibjfJiaVC\/132","subscribe_time":1631093232,"remark":"","groupid":2,"tagid_list":[2],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 14:21:28.2766]
+[线程：12]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_I5zQB9GCORQhHGAM_yTrgtzpq8oFFTSao3njgHlUtPGJM0rmmTbkbAMgyvEoseMa7wLtKvJJFwZ9Z1T3XYMQkmozbF2fnVE0PZ6ttUeY5MnV7QCx6_DK4uzbDzUuOa8FQ9D2WEQ1aywlPPBHOQTiAIAZBE
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":0},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:21:28.3025]
+[线程：12]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_I5zQB9GCORQhHGAM_yTrgtzpq8oFFTSao3njgHlUtPGJM0rmmTbkbAMgyvEoseMa7wLtKvJJFwZ9Z1T3XYMQkmozbF2fnVE0PZ6ttUeY5MnV7QCx6_DK4uzbDzUuOa8FQ9D2WEQ1aywlPPBHOQTiAIAZBE
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:21:29.4928]
+[线程：12]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/get?access_token=48_I5zQB9GCORQhHGAM_yTrgtzpq8oFFTSao3njgHlUtPGJM0rmmTbkbAMgyvEoseMa7wLtKvJJFwZ9Z1T3XYMQkmozbF2fnVE0PZ6ttUeY5MnV7QCx6_DK4uzbDzUuOa8FQ9D2WEQ1aywlPPBHOQTiAIAZBE
+	Result：
+{"tags":[{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:21:29.4978]
+[线程：12]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/members/batchtagging?access_token=48_I5zQB9GCORQhHGAM_yTrgtzpq8oFFTSao3njgHlUtPGJM0rmmTbkbAMgyvEoseMa7wLtKvJJFwZ9Z1T3XYMQkmozbF2fnVE0PZ6ttUeY5MnV7QCx6_DK4uzbDzUuOa8FQ9D2WEQ1aywlPPBHOQTiAIAZBE
+	Post Data：
+{"openid_list":["ohzyVt-Lzj2073Gq23KLRk7HAcPo","ohzyVt0zJr-ifqHU5THdg2376tjc","ohzyVt6nDhiRLVl413tLQOlFf8f0"],"tagid":2}
+
+[[[接口调用]]]
+[2021/09/08 14:21:30.2439]
+[线程：12]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/getidlist?access_token=48_I5zQB9GCORQhHGAM_yTrgtzpq8oFFTSao3njgHlUtPGJM0rmmTbkbAMgyvEoseMa7wLtKvJJFwZ9Z1T3XYMQkmozbF2fnVE0PZ6ttUeY5MnV7QCx6_DK4uzbDzUuOa8FQ9D2WEQ1aywlPPBHOQTiAIAZBE
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:21:30.9875]
+[线程：12]
+	URL：https://api.weixin.qq.com/cgi-bin/user/tag/get?access_token=48_I5zQB9GCORQhHGAM_yTrgtzpq8oFFTSao3njgHlUtPGJM0rmmTbkbAMgyvEoseMa7wLtKvJJFwZ9Z1T3XYMQkmozbF2fnVE0PZ6ttUeY5MnV7QCx6_DK4uzbDzUuOa8FQ9D2WEQ1aywlPPBHOQTiAIAZBE
+	Post Data：
+{"tagid":2,"next_openid":""}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 14:25:35.2741]
+[线程：44]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 14:25:35.2781]
+[线程：44]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 14:25:47.5820]
+[线程：65]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_3-wGbt74yd_OCrsSZ9SCu1FKC_URVU9N6P2kKzs7CRgFBFjGHbJtvalvwzdWtdL73qkY9MNMlXfgzm_rG512CTda2cpD7Lg16--48Cr4BwypWXjmd8j_RiiSq4j0T1O7o0Y-jpXj-Vudd4f5UTKfAGAAZQ&openid=ohzyVt-Lzj2073Gq23KLRk7HAcPo&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo","nickname":"Viki小助理","sex":2,"language":"zh_CN","city":"","province":"","country":"","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/7jCILdeOs9cZiaZwlcSIl8JIHIrcCxyTnJiciagCLeYOFibdX2ibhfSOiaZHtf1kN8USiceFB51mn96CyqMGldze04Lr9M0sibjfJiaVC\/132","subscribe_time":1631093232,"remark":"","groupid":2,"tagid_list":[2],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 14:25:48.0070]
+[线程：65]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_3-wGbt74yd_OCrsSZ9SCu1FKC_URVU9N6P2kKzs7CRgFBFjGHbJtvalvwzdWtdL73qkY9MNMlXfgzm_rG512CTda2cpD7Lg16--48Cr4BwypWXjmd8j_RiiSq4j0T1O7o0Y-jpXj-Vudd4f5UTKfAGAAZQ
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":0},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:25:48.0329]
+[线程：65]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_3-wGbt74yd_OCrsSZ9SCu1FKC_URVU9N6P2kKzs7CRgFBFjGHbJtvalvwzdWtdL73qkY9MNMlXfgzm_rG512CTda2cpD7Lg16--48Cr4BwypWXjmd8j_RiiSq4j0T1O7o0Y-jpXj-Vudd4f5UTKfAGAAZQ
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:25:49.2307]
+[线程：65]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/get?access_token=48_3-wGbt74yd_OCrsSZ9SCu1FKC_URVU9N6P2kKzs7CRgFBFjGHbJtvalvwzdWtdL73qkY9MNMlXfgzm_rG512CTda2cpD7Lg16--48Cr4BwypWXjmd8j_RiiSq4j0T1O7o0Y-jpXj-Vudd4f5UTKfAGAAZQ
+	Result：
+{"tags":[{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:25:49.2357]
+[线程：65]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/members/batchtagging?access_token=48_3-wGbt74yd_OCrsSZ9SCu1FKC_URVU9N6P2kKzs7CRgFBFjGHbJtvalvwzdWtdL73qkY9MNMlXfgzm_rG512CTda2cpD7Lg16--48Cr4BwypWXjmd8j_RiiSq4j0T1O7o0Y-jpXj-Vudd4f5UTKfAGAAZQ
+	Post Data：
+{"openid_list":["ohzyVt-Lzj2073Gq23KLRk7HAcPo","ohzyVt0zJr-ifqHU5THdg2376tjc","ohzyVt6nDhiRLVl413tLQOlFf8f0"],"tagid":2}
+
+[[[接口调用]]]
+[2021/09/08 14:25:49.9709]
+[线程：65]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/getidlist?access_token=48_3-wGbt74yd_OCrsSZ9SCu1FKC_URVU9N6P2kKzs7CRgFBFjGHbJtvalvwzdWtdL73qkY9MNMlXfgzm_rG512CTda2cpD7Lg16--48Cr4BwypWXjmd8j_RiiSq4j0T1O7o0Y-jpXj-Vudd4f5UTKfAGAAZQ
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:25:50.6654]
+[线程：65]
+	URL：https://api.weixin.qq.com/cgi-bin/user/tag/get?access_token=48_3-wGbt74yd_OCrsSZ9SCu1FKC_URVU9N6P2kKzs7CRgFBFjGHbJtvalvwzdWtdL73qkY9MNMlXfgzm_rG512CTda2cpD7Lg16--48Cr4BwypWXjmd8j_RiiSq4j0T1O7o0Y-jpXj-Vudd4f5UTKfAGAAZQ
+	Post Data：
+{"tagid":2,"next_openid":""}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 14:31:57.2669]
+[线程：44]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 14:31:57.2709]
+[线程：44]
+微信扩展缓存注册总用时：0.9953ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 14:32:09.6687]
+[线程：71]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_GecXhQRiyW8AcQyjs3kFoIal-Mc_vd_3UZ1mFJO6rv-V7gVQ2WbD0lE2ISMeVrluCZb9R0EEqtxzzfEqPm9-UeBmTHguk-klR9-VKBjOBu229SV0m8gfE1Oo3rEYIehEwT2Ql0agDYzcJEhbDVWaACAMEF&openid=ohzyVt-Lzj2073Gq23KLRk7HAcPo&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo","nickname":"Viki小助理","sex":2,"language":"zh_CN","city":"","province":"","country":"","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/7jCILdeOs9cZiaZwlcSIl8JIHIrcCxyTnJiciagCLeYOFibdX2ibhfSOiaZHtf1kN8USiceFB51mn96CyqMGldze04Lr9M0sibjfJiaVC\/132","subscribe_time":1631093232,"remark":"","groupid":2,"tagid_list":[2],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 14:32:10.1276]
+[线程：71]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_GecXhQRiyW8AcQyjs3kFoIal-Mc_vd_3UZ1mFJO6rv-V7gVQ2WbD0lE2ISMeVrluCZb9R0EEqtxzzfEqPm9-UeBmTHguk-klR9-VKBjOBu229SV0m8gfE1Oo3rEYIehEwT2Ql0agDYzcJEhbDVWaACAMEF
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":0},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:32:10.1546]
+[线程：71]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_GecXhQRiyW8AcQyjs3kFoIal-Mc_vd_3UZ1mFJO6rv-V7gVQ2WbD0lE2ISMeVrluCZb9R0EEqtxzzfEqPm9-UeBmTHguk-klR9-VKBjOBu229SV0m8gfE1Oo3rEYIehEwT2Ql0agDYzcJEhbDVWaACAMEF
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:32:11.3590]
+[线程：71]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/get?access_token=48_GecXhQRiyW8AcQyjs3kFoIal-Mc_vd_3UZ1mFJO6rv-V7gVQ2WbD0lE2ISMeVrluCZb9R0EEqtxzzfEqPm9-UeBmTHguk-klR9-VKBjOBu229SV0m8gfE1Oo3rEYIehEwT2Ql0agDYzcJEhbDVWaACAMEF
+	Result：
+{"tags":[{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:32:11.3611]
+[线程：71]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/getidlist?access_token=48_GecXhQRiyW8AcQyjs3kFoIal-Mc_vd_3UZ1mFJO6rv-V7gVQ2WbD0lE2ISMeVrluCZb9R0EEqtxzzfEqPm9-UeBmTHguk-klR9-VKBjOBu229SV0m8gfE1Oo3rEYIehEwT2Ql0agDYzcJEhbDVWaACAMEF
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:32:12.1032]
+[线程：71]
+	URL：https://api.weixin.qq.com/cgi-bin/user/tag/get?access_token=48_GecXhQRiyW8AcQyjs3kFoIal-Mc_vd_3UZ1mFJO6rv-V7gVQ2WbD0lE2ISMeVrluCZb9R0EEqtxzzfEqPm9-UeBmTHguk-klR9-VKBjOBu229SV0m8gfE1Oo3rEYIehEwT2Ql0agDYzcJEhbDVWaACAMEF
+	Post Data：
+{"tagid":2,"next_openid":""}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 14:37:05.9247]
+[线程：44]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 14:37:05.9297]
+[线程：44]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 14:37:18.3254]
+[线程：56]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_ACbSUTZTeH47NlpJE3yNV4JyA0axYBv1em3SnNn7EXwZzu0bfDYx0ZZTqrD_zD7jzuPr7jc-aPOyKMjUBN8o7wXczOA1o81gMt6v2PTYDcDRSW0xu4LiXgcATRcITQamTSR14TOilJEXwWh1RJHdAEAMEC&openid=ohzyVt-Lzj2073Gq23KLRk7HAcPo&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo","nickname":"Viki小助理","sex":2,"language":"zh_CN","city":"","province":"","country":"","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/7jCILdeOs9cZiaZwlcSIl8JIHIrcCxyTnJiciagCLeYOFibdX2ibhfSOiaZHtf1kN8USiceFB51mn96CyqMGldze04Lr9M0sibjfJiaVC\/132","subscribe_time":1631093232,"remark":"","groupid":2,"tagid_list":[2],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 14:37:18.8008]
+[线程：56]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_ACbSUTZTeH47NlpJE3yNV4JyA0axYBv1em3SnNn7EXwZzu0bfDYx0ZZTqrD_zD7jzuPr7jc-aPOyKMjUBN8o7wXczOA1o81gMt6v2PTYDcDRSW0xu4LiXgcATRcITQamTSR14TOilJEXwWh1RJHdAEAMEC
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":0},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:37:18.8257]
+[线程：56]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_ACbSUTZTeH47NlpJE3yNV4JyA0axYBv1em3SnNn7EXwZzu0bfDYx0ZZTqrD_zD7jzuPr7jc-aPOyKMjUBN8o7wXczOA1o81gMt6v2PTYDcDRSW0xu4LiXgcATRcITQamTSR14TOilJEXwWh1RJHdAEAMEC
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:37:20.6686]
+[线程：56]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/get?access_token=48_ACbSUTZTeH47NlpJE3yNV4JyA0axYBv1em3SnNn7EXwZzu0bfDYx0ZZTqrD_zD7jzuPr7jc-aPOyKMjUBN8o7wXczOA1o81gMt6v2PTYDcDRSW0xu4LiXgcATRcITQamTSR14TOilJEXwWh1RJHdAEAMEC
+	Result：
+{"tags":[{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:37:20.6706]
+[线程：56]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/getidlist?access_token=48_ACbSUTZTeH47NlpJE3yNV4JyA0axYBv1em3SnNn7EXwZzu0bfDYx0ZZTqrD_zD7jzuPr7jc-aPOyKMjUBN8o7wXczOA1o81gMt6v2PTYDcDRSW0xu4LiXgcATRcITQamTSR14TOilJEXwWh1RJHdAEAMEC
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:37:21.4144]
+[线程：56]
+	URL：https://api.weixin.qq.com/cgi-bin/user/tag/get?access_token=48_ACbSUTZTeH47NlpJE3yNV4JyA0axYBv1em3SnNn7EXwZzu0bfDYx0ZZTqrD_zD7jzuPr7jc-aPOyKMjUBN8o7wXczOA1o81gMt6v2PTYDcDRSW0xu4LiXgcATRcITQamTSR14TOilJEXwWh1RJHdAEAMEC
+	Post Data：
+{"tagid":2,"next_openid":""}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 14:37:58.3529]
+[线程：44]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 14:37:58.3569]
+[线程：44]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 14:38:11.5745]
+[线程：103]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_oyrNPOAD1ByX1pZkeTSbYZ5QB7Hmwe3sLd5iLGBbaoQTIwFMeesCR9am3P9dq2AimekkSxruJDf24qkOpmuzQnfIT9KbWg7eRMU81vd6zKufLvfq4qCdK6R9QYkmlfypIWirBMJ9oOoOgqcUOWDbAAATBI&openid=ohzyVt-Lzj2073Gq23KLRk7HAcPo&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo","nickname":"Viki小助理","sex":2,"language":"zh_CN","city":"","province":"","country":"","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/7jCILdeOs9cZiaZwlcSIl8JIHIrcCxyTnJiciagCLeYOFibdX2ibhfSOiaZHtf1kN8USiceFB51mn96CyqMGldze04Lr9M0sibjfJiaVC\/132","subscribe_time":1631093232,"remark":"","groupid":2,"tagid_list":[2],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 14:38:12.0399]
+[线程：103]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_oyrNPOAD1ByX1pZkeTSbYZ5QB7Hmwe3sLd5iLGBbaoQTIwFMeesCR9am3P9dq2AimekkSxruJDf24qkOpmuzQnfIT9KbWg7eRMU81vd6zKufLvfq4qCdK6R9QYkmlfypIWirBMJ9oOoOgqcUOWDbAAATBI
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":0},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:38:12.0664]
+[线程：103]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_oyrNPOAD1ByX1pZkeTSbYZ5QB7Hmwe3sLd5iLGBbaoQTIwFMeesCR9am3P9dq2AimekkSxruJDf24qkOpmuzQnfIT9KbWg7eRMU81vd6zKufLvfq4qCdK6R9QYkmlfypIWirBMJ9oOoOgqcUOWDbAAATBI
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:38:13.2280]
+[线程：103]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/get?access_token=48_oyrNPOAD1ByX1pZkeTSbYZ5QB7Hmwe3sLd5iLGBbaoQTIwFMeesCR9am3P9dq2AimekkSxruJDf24qkOpmuzQnfIT9KbWg7eRMU81vd6zKufLvfq4qCdK6R9QYkmlfypIWirBMJ9oOoOgqcUOWDbAAATBI
+	Result：
+{"tags":[{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:38:13.2300]
+[线程：103]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/getidlist?access_token=48_oyrNPOAD1ByX1pZkeTSbYZ5QB7Hmwe3sLd5iLGBbaoQTIwFMeesCR9am3P9dq2AimekkSxruJDf24qkOpmuzQnfIT9KbWg7eRMU81vd6zKufLvfq4qCdK6R9QYkmlfypIWirBMJ9oOoOgqcUOWDbAAATBI
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:38:13.9035]
+[线程：103]
+	URL：https://api.weixin.qq.com/cgi-bin/user/tag/get?access_token=48_oyrNPOAD1ByX1pZkeTSbYZ5QB7Hmwe3sLd5iLGBbaoQTIwFMeesCR9am3P9dq2AimekkSxruJDf24qkOpmuzQnfIT9KbWg7eRMU81vd6zKufLvfq4qCdK6R9QYkmlfypIWirBMJ9oOoOgqcUOWDbAAATBI
+	Post Data：
+{"tagid":2,"next_openid":""}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 14:39:30.1453]
+[线程：44]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 14:39:30.1492]
+[线程：44]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 14:39:42.6531]
+[线程：8]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_S0gfxhSZLUSgd6uNXs198w9CRgjRgmB2HQaYnq2uplrOOP_9qauN88MtLt2FiqLtm4Pt70mI7JFrEP9mm2fuzLLK-7aiE8y4wVzOqSgOywKN_JWaYeM4VXkLEzbPLwG1sz7zRLET-p9UvqoOPZHaAFAYIQ&openid=ohzyVt-Lzj2073Gq23KLRk7HAcPo&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo","nickname":"Viki小助理","sex":2,"language":"zh_CN","city":"","province":"","country":"","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/7jCILdeOs9cZiaZwlcSIl8JIHIrcCxyTnJiciagCLeYOFibdX2ibhfSOiaZHtf1kN8USiceFB51mn96CyqMGldze04Lr9M0sibjfJiaVC\/132","subscribe_time":1631093232,"remark":"","groupid":2,"tagid_list":[2],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 14:39:43.1273]
+[线程：8]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_S0gfxhSZLUSgd6uNXs198w9CRgjRgmB2HQaYnq2uplrOOP_9qauN88MtLt2FiqLtm4Pt70mI7JFrEP9mm2fuzLLK-7aiE8y4wVzOqSgOywKN_JWaYeM4VXkLEzbPLwG1sz7zRLET-p9UvqoOPZHaAFAYIQ
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":0},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:39:43.1550]
+[线程：8]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_S0gfxhSZLUSgd6uNXs198w9CRgjRgmB2HQaYnq2uplrOOP_9qauN88MtLt2FiqLtm4Pt70mI7JFrEP9mm2fuzLLK-7aiE8y4wVzOqSgOywKN_JWaYeM4VXkLEzbPLwG1sz7zRLET-p9UvqoOPZHaAFAYIQ
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:39:44.3221]
+[线程：8]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/get?access_token=48_S0gfxhSZLUSgd6uNXs198w9CRgjRgmB2HQaYnq2uplrOOP_9qauN88MtLt2FiqLtm4Pt70mI7JFrEP9mm2fuzLLK-7aiE8y4wVzOqSgOywKN_JWaYeM4VXkLEzbPLwG1sz7zRLET-p9UvqoOPZHaAFAYIQ
+	Result：
+{"tags":[{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":0},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:39:44.3271]
+[线程：8]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/members/batchtagging?access_token=48_S0gfxhSZLUSgd6uNXs198w9CRgjRgmB2HQaYnq2uplrOOP_9qauN88MtLt2FiqLtm4Pt70mI7JFrEP9mm2fuzLLK-7aiE8y4wVzOqSgOywKN_JWaYeM4VXkLEzbPLwG1sz7zRLET-p9UvqoOPZHaAFAYIQ
+	Post Data：
+{"openid_list":["ohzyVt-Lzj2073Gq23KLRk7HAcPo","ohzyVt0zJr-ifqHU5THdg2376tjc"],"tagid":102}
+
+[[[接口调用]]]
+[2021/09/08 14:39:45.1073]
+[线程：8]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/getidlist?access_token=48_S0gfxhSZLUSgd6uNXs198w9CRgjRgmB2HQaYnq2uplrOOP_9qauN88MtLt2FiqLtm4Pt70mI7JFrEP9mm2fuzLLK-7aiE8y4wVzOqSgOywKN_JWaYeM4VXkLEzbPLwG1sz7zRLET-p9UvqoOPZHaAFAYIQ
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:39:45.7875]
+[线程：8]
+	URL：https://api.weixin.qq.com/cgi-bin/user/tag/get?access_token=48_S0gfxhSZLUSgd6uNXs198w9CRgjRgmB2HQaYnq2uplrOOP_9qauN88MtLt2FiqLtm4Pt70mI7JFrEP9mm2fuzLLK-7aiE8y4wVzOqSgOywKN_JWaYeM4VXkLEzbPLwG1sz7zRLET-p9UvqoOPZHaAFAYIQ
+	Post Data：
+{"tagid":102,"next_openid":""}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 14:46:49.8669]
+[线程：44]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 14:46:49.8709]
+[线程：44]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 14:47:02.2783]
+[线程：18]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_NI8qek-WU4BIDaSV47xoKZ030d_CnyI4uBadcSRmFSjfWww1V4MHZaASNtj5xfxOb-NMj3XopTk2aQRBSsW_v3aXCua2fgRlKOolezBWoBu0kTizF1vgZCxFG0TztRVU51-NfRrC_wX8wOHMEAPhAJALHW&openid=ohzyVt-Lzj2073Gq23KLRk7HAcPo&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo","nickname":"Viki小助理","sex":2,"language":"zh_CN","city":"","province":"","country":"","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/7jCILdeOs9cZiaZwlcSIl8JIHIrcCxyTnJiciagCLeYOFibdX2ibhfSOiaZHtf1kN8USiceFB51mn96CyqMGldze04Lr9M0sibjfJiaVC\/132","subscribe_time":1631093232,"remark":"","groupid":2,"tagid_list":[2,102],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 14:47:02.7404]
+[线程：18]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_NI8qek-WU4BIDaSV47xoKZ030d_CnyI4uBadcSRmFSjfWww1V4MHZaASNtj5xfxOb-NMj3XopTk2aQRBSsW_v3aXCua2fgRlKOolezBWoBu0kTizF1vgZCxFG0TztRVU51-NfRrC_wX8wOHMEAPhAJALHW
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":0},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":2},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:47:02.7673]
+[线程：18]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_NI8qek-WU4BIDaSV47xoKZ030d_CnyI4uBadcSRmFSjfWww1V4MHZaASNtj5xfxOb-NMj3XopTk2aQRBSsW_v3aXCua2fgRlKOolezBWoBu0kTizF1vgZCxFG0TztRVU51-NfRrC_wX8wOHMEAPhAJALHW
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:47:03.9711]
+[线程：18]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/get?access_token=48_NI8qek-WU4BIDaSV47xoKZ030d_CnyI4uBadcSRmFSjfWww1V4MHZaASNtj5xfxOb-NMj3XopTk2aQRBSsW_v3aXCua2fgRlKOolezBWoBu0kTizF1vgZCxFG0TztRVU51-NfRrC_wX8wOHMEAPhAJALHW
+	Result：
+{"tags":[{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":2},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:47:03.9731]
+[线程：18]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/getidlist?access_token=48_NI8qek-WU4BIDaSV47xoKZ030d_CnyI4uBadcSRmFSjfWww1V4MHZaASNtj5xfxOb-NMj3XopTk2aQRBSsW_v3aXCua2fgRlKOolezBWoBu0kTizF1vgZCxFG0TztRVU51-NfRrC_wX8wOHMEAPhAJALHW
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:47:04.7011]
+[线程：18]
+	URL：https://api.weixin.qq.com/cgi-bin/user/tag/get?access_token=48_NI8qek-WU4BIDaSV47xoKZ030d_CnyI4uBadcSRmFSjfWww1V4MHZaASNtj5xfxOb-NMj3XopTk2aQRBSsW_v3aXCua2fgRlKOolezBWoBu0kTizF1vgZCxFG0TztRVU51-NfRrC_wX8wOHMEAPhAJALHW
+	Post Data：
+{"tagid":102,"next_openid":""}
+
+[[[接口调用]]]
+[2021/09/08 14:47:05.4514]
+[线程：18]
+	URL：https://api.weixin.qq.com/cgi-bin/message/mass/sendall?access_token=48_NI8qek-WU4BIDaSV47xoKZ030d_CnyI4uBadcSRmFSjfWww1V4MHZaASNtj5xfxOb-NMj3XopTk2aQRBSsW_v3aXCua2fgRlKOolezBWoBu0kTizF1vgZCxFG0TztRVU51-NfRrC_wX8wOHMEAPhAJALHW
+	Post Data：
+{"image":{"media_id":"PJjku-Ld2gE1_ttc46POrm-LjxVGAEbuzv9sela548CLJsIM626qWhNVdlgGt6Tu"},"filter":{"tag_id":"102","is_to_all":false},"msgtype":"image","send_ignore_reprint":1,"clientmsgid":null}
+
+[[[ErrorJsonResultException]]]
+[2021/09/08 14:47:09.0921]
+[线程：18]
+	ErrorJsonResultException
+	AccessTokenOrAppId：null
+	URL：https://api.weixin.qq.com/cgi-bin/message/mass/sendall?access_token=48_NI8qek-WU4BIDaSV47xoKZ030d_CnyI4uBadcSRmFSjfWww1V4MHZaASNtj5xfxOb-NMj3XopTk2aQRBSsW_v3aXCua2fgRlKOolezBWoBu0kTizF1vgZCxFG0TztRVU51-NfRrC_wX8wOHMEAPhAJALHW
+	errcode：48008
+	errmsg：no permission for this msgtype rid: 6138bed9-555399e9-17cbfca6
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 14:51:49.4512]
+[线程：58]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 14:51:49.4552]
+[线程：58]
+微信扩展缓存注册总用时：0.9974ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 14:52:01.9179]
+[线程：59]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_MKfnuRcqjgeKG8CXDULfkNeGBusy-WU77fk8_E2GrkspjohCmEVESE1S3MFW2li1GIGLaFaLrhsAkMS4KzMaB97A5BlUHGmXCDepxQ30ns_0o9edIhP8IPtNDX4Y4Q-aM4VfMR_dNKn9c1-IEZDgAIAUPT&openid=ohzyVt-Lzj2073Gq23KLRk7HAcPo&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo","nickname":"Viki小助理","sex":2,"language":"zh_CN","city":"","province":"","country":"","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/7jCILdeOs9cZiaZwlcSIl8JIHIrcCxyTnJiciagCLeYOFibdX2ibhfSOiaZHtf1kN8USiceFB51mn96CyqMGldze04Lr9M0sibjfJiaVC\/132","subscribe_time":1631093232,"remark":"","groupid":2,"tagid_list":[2,102],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 14:52:02.3775]
+[线程：59]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_MKfnuRcqjgeKG8CXDULfkNeGBusy-WU77fk8_E2GrkspjohCmEVESE1S3MFW2li1GIGLaFaLrhsAkMS4KzMaB97A5BlUHGmXCDepxQ30ns_0o9edIhP8IPtNDX4Y4Q-aM4VfMR_dNKn9c1-IEZDgAIAUPT
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":0},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":2},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:52:02.4034]
+[线程：59]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_MKfnuRcqjgeKG8CXDULfkNeGBusy-WU77fk8_E2GrkspjohCmEVESE1S3MFW2li1GIGLaFaLrhsAkMS4KzMaB97A5BlUHGmXCDepxQ30ns_0o9edIhP8IPtNDX4Y4Q-aM4VfMR_dNKn9c1-IEZDgAIAUPT
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:52:03.5934]
+[线程：59]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/get?access_token=48_MKfnuRcqjgeKG8CXDULfkNeGBusy-WU77fk8_E2GrkspjohCmEVESE1S3MFW2li1GIGLaFaLrhsAkMS4KzMaB97A5BlUHGmXCDepxQ30ns_0o9edIhP8IPtNDX4Y4Q-aM4VfMR_dNKn9c1-IEZDgAIAUPT
+	Result：
+{"tags":[{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":2},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:52:03.5956]
+[线程：59]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/getidlist?access_token=48_MKfnuRcqjgeKG8CXDULfkNeGBusy-WU77fk8_E2GrkspjohCmEVESE1S3MFW2li1GIGLaFaLrhsAkMS4KzMaB97A5BlUHGmXCDepxQ30ns_0o9edIhP8IPtNDX4Y4Q-aM4VfMR_dNKn9c1-IEZDgAIAUPT
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:52:04.2854]
+[线程：59]
+	URL：https://api.weixin.qq.com/cgi-bin/user/tag/get?access_token=48_MKfnuRcqjgeKG8CXDULfkNeGBusy-WU77fk8_E2GrkspjohCmEVESE1S3MFW2li1GIGLaFaLrhsAkMS4KzMaB97A5BlUHGmXCDepxQ30ns_0o9edIhP8IPtNDX4Y4Q-aM4VfMR_dNKn9c1-IEZDgAIAUPT
+	Post Data：
+{"tagid":102,"next_openid":""}
+
+[[[接口调用]]]
+[2021/09/08 14:52:04.9833]
+[线程：59]
+	URL：https://api.weixin.qq.com/cgi-bin/message/mass/sendall?access_token=48_MKfnuRcqjgeKG8CXDULfkNeGBusy-WU77fk8_E2GrkspjohCmEVESE1S3MFW2li1GIGLaFaLrhsAkMS4KzMaB97A5BlUHGmXCDepxQ30ns_0o9edIhP8IPtNDX4Y4Q-aM4VfMR_dNKn9c1-IEZDgAIAUPT
+	Post Data：
+{"text":{"content":"这是一个推送给Tag 102组别的群发消息，你收到了则表示测试成功"},"filter":{"tag_id":"102","is_to_all":false},"msgtype":"text","send_ignore_reprint":1,"clientmsgid":null}
+
+[[[ErrorJsonResultException]]]
+[2021/09/08 14:52:06.9322]
+[线程：59]
+	ErrorJsonResultException
+	AccessTokenOrAppId：null
+	URL：https://api.weixin.qq.com/cgi-bin/message/mass/sendall?access_token=48_MKfnuRcqjgeKG8CXDULfkNeGBusy-WU77fk8_E2GrkspjohCmEVESE1S3MFW2li1GIGLaFaLrhsAkMS4KzMaB97A5BlUHGmXCDepxQ30ns_0o9edIhP8IPtNDX4Y4Q-aM4VfMR_dNKn9c1-IEZDgAIAUPT
+	errcode：48008
+	errmsg：no permission for this msgtype rid: 6138c004-3cebd466-1037bcfa
+
+[[[接口调用]]]
+[2021/09/08 14:56:53.1766]
+[线程：33]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_MKfnuRcqjgeKG8CXDULfkNeGBusy-WU77fk8_E2GrkspjohCmEVESE1S3MFW2li1GIGLaFaLrhsAkMS4KzMaB97A5BlUHGmXCDepxQ30ns_0o9edIhP8IPtNDX4Y4Q-aM4VfMR_dNKn9c1-IEZDgAIAUPT&openid=ohzyVt-Lzj2073Gq23KLRk7HAcPo&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo","nickname":"Viki小助理","sex":2,"language":"zh_CN","city":"","province":"","country":"","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/7jCILdeOs9cZiaZwlcSIl8JIHIrcCxyTnJiciagCLeYOFibdX2ibhfSOiaZHtf1kN8USiceFB51mn96CyqMGldze04Lr9M0sibjfJiaVC\/132","subscribe_time":1631093232,"remark":"","groupid":2,"tagid_list":[2,102],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 14:56:53.6240]
+[线程：33]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_MKfnuRcqjgeKG8CXDULfkNeGBusy-WU77fk8_E2GrkspjohCmEVESE1S3MFW2li1GIGLaFaLrhsAkMS4KzMaB97A5BlUHGmXCDepxQ30ns_0o9edIhP8IPtNDX4Y4Q-aM4VfMR_dNKn9c1-IEZDgAIAUPT
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":0},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":2},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:56:53.6240]
+[线程：33]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_MKfnuRcqjgeKG8CXDULfkNeGBusy-WU77fk8_E2GrkspjohCmEVESE1S3MFW2li1GIGLaFaLrhsAkMS4KzMaB97A5BlUHGmXCDepxQ30ns_0o9edIhP8IPtNDX4Y4Q-aM4VfMR_dNKn9c1-IEZDgAIAUPT
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:56:54.7323]
+[线程：33]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/getidlist?access_token=48_MKfnuRcqjgeKG8CXDULfkNeGBusy-WU77fk8_E2GrkspjohCmEVESE1S3MFW2li1GIGLaFaLrhsAkMS4KzMaB97A5BlUHGmXCDepxQ30ns_0o9edIhP8IPtNDX4Y4Q-aM4VfMR_dNKn9c1-IEZDgAIAUPT
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:56:54.7323]
+[线程：33]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/get?access_token=48_MKfnuRcqjgeKG8CXDULfkNeGBusy-WU77fk8_E2GrkspjohCmEVESE1S3MFW2li1GIGLaFaLrhsAkMS4KzMaB97A5BlUHGmXCDepxQ30ns_0o9edIhP8IPtNDX4Y4Q-aM4VfMR_dNKn9c1-IEZDgAIAUPT
+	Result：
+{"tags":[{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":2},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:56:55.4176]
+[线程：33]
+	URL：https://api.weixin.qq.com/cgi-bin/user/tag/get?access_token=48_MKfnuRcqjgeKG8CXDULfkNeGBusy-WU77fk8_E2GrkspjohCmEVESE1S3MFW2li1GIGLaFaLrhsAkMS4KzMaB97A5BlUHGmXCDepxQ30ns_0o9edIhP8IPtNDX4Y4Q-aM4VfMR_dNKn9c1-IEZDgAIAUPT
+	Post Data：
+{"tagid":102,"next_openid":""}
+
+[[[接口调用]]]
+[2021/09/08 14:56:56.1451]
+[线程：33]
+	URL：https://api.weixin.qq.com/cgi-bin/message/mass/sendall?access_token=48_MKfnuRcqjgeKG8CXDULfkNeGBusy-WU77fk8_E2GrkspjohCmEVESE1S3MFW2li1GIGLaFaLrhsAkMS4KzMaB97A5BlUHGmXCDepxQ30ns_0o9edIhP8IPtNDX4Y4Q-aM4VfMR_dNKn9c1-IEZDgAIAUPT
+	Post Data：
+{"text":{"content":"这是一个推送给Tag 102组别的群发消息，你收到了则表示测试成功"},"filter":{"tag_id":"102","is_to_all":false},"msgtype":"text","send_ignore_reprint":1,"clientmsgid":null}
+
+[[[ErrorJsonResultException]]]
+[2021/09/08 14:56:57.8431]
+[线程：33]
+	ErrorJsonResultException
+	AccessTokenOrAppId：null
+	URL：https://api.weixin.qq.com/cgi-bin/message/mass/sendall?access_token=48_MKfnuRcqjgeKG8CXDULfkNeGBusy-WU77fk8_E2GrkspjohCmEVESE1S3MFW2li1GIGLaFaLrhsAkMS4KzMaB97A5BlUHGmXCDepxQ30ns_0o9edIhP8IPtNDX4Y4Q-aM4VfMR_dNKn9c1-IEZDgAIAUPT
+	errcode：48008
+	errmsg：no permission for this msgtype rid: 6138c127-4b81c5d4-390f534c
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 14:57:38.3051]
+[线程：58]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 14:57:38.3100]
+[线程：58]
+微信扩展缓存注册总用时：0.9973ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 14:57:50.3681]
+[线程：97]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_7OxCJuBb7CObFjShMlqk36hFuERCSo2HlD0dytzl58VJbsSwdpooJioFK_PwVM5I2XvkWP1QOb0xbAJJlz1F60pcMvZsdPFUiij5v0K61xxOTxof2KVlevfSc-LggVpXGCz1i8bEJXWjd7F7PSKbAEAGJB&openid=ohzyVt-Lzj2073Gq23KLRk7HAcPo&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo","nickname":"Viki小助理","sex":2,"language":"zh_CN","city":"","province":"","country":"","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/7jCILdeOs9cZiaZwlcSIl8JIHIrcCxyTnJiciagCLeYOFibdX2ibhfSOiaZHtf1kN8USiceFB51mn96CyqMGldze04Lr9M0sibjfJiaVC\/132","subscribe_time":1631093232,"remark":"","groupid":2,"tagid_list":[2,102],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 14:57:50.8136]
+[线程：97]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_7OxCJuBb7CObFjShMlqk36hFuERCSo2HlD0dytzl58VJbsSwdpooJioFK_PwVM5I2XvkWP1QOb0xbAJJlz1F60pcMvZsdPFUiij5v0K61xxOTxof2KVlevfSc-LggVpXGCz1i8bEJXWjd7F7PSKbAEAGJB
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":0},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":2},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:57:50.8395]
+[线程：97]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_7OxCJuBb7CObFjShMlqk36hFuERCSo2HlD0dytzl58VJbsSwdpooJioFK_PwVM5I2XvkWP1QOb0xbAJJlz1F60pcMvZsdPFUiij5v0K61xxOTxof2KVlevfSc-LggVpXGCz1i8bEJXWjd7F7PSKbAEAGJB
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:57:51.9500]
+[线程：97]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/get?access_token=48_7OxCJuBb7CObFjShMlqk36hFuERCSo2HlD0dytzl58VJbsSwdpooJioFK_PwVM5I2XvkWP1QOb0xbAJJlz1F60pcMvZsdPFUiij5v0K61xxOTxof2KVlevfSc-LggVpXGCz1i8bEJXWjd7F7PSKbAEAGJB
+	Result：
+{"tags":[{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":2},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 14:57:51.9530]
+[线程：97]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/getidlist?access_token=48_7OxCJuBb7CObFjShMlqk36hFuERCSo2HlD0dytzl58VJbsSwdpooJioFK_PwVM5I2XvkWP1QOb0xbAJJlz1F60pcMvZsdPFUiij5v0K61xxOTxof2KVlevfSc-LggVpXGCz1i8bEJXWjd7F7PSKbAEAGJB
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 14:57:52.6757]
+[线程：97]
+	URL：https://api.weixin.qq.com/cgi-bin/user/tag/get?access_token=48_7OxCJuBb7CObFjShMlqk36hFuERCSo2HlD0dytzl58VJbsSwdpooJioFK_PwVM5I2XvkWP1QOb0xbAJJlz1F60pcMvZsdPFUiij5v0K61xxOTxof2KVlevfSc-LggVpXGCz1i8bEJXWjd7F7PSKbAEAGJB
+	Post Data：
+{"tagid":102,"next_openid":""}
+
+[[[接口调用]]]
+[2021/09/08 17:03:05.3736]
+[线程：80]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_CJ5uC82AWSsu83S0OJEPZ51nVuDbXYDEQaoXdwPCqHRfpgXctKPerc3yzGHj4daGf_dSQ4ecqEDGIxzcFLRdyLvuHkbshb10WwgcuTHq_aBpnKRpNrwtfG_V9RxqqqmhEzHlsnGr7evymf8qDXZgAHAYSU&openid=ohzyVt-Lzj2073Gq23KLRk7HAcPo&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo","nickname":"Viki小助理","sex":2,"language":"zh_CN","city":"","province":"","country":"","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/7jCILdeOs9cZiaZwlcSIl8JIHIrcCxyTnJiciagCLeYOFibdX2ibhfSOiaZHtf1kN8USiceFB51mn96CyqMGldze04Lr9M0sibjfJiaVC\/132","subscribe_time":1631093232,"remark":"","groupid":2,"tagid_list":[2,102],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 17:03:05.8217]
+[线程：80]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_CJ5uC82AWSsu83S0OJEPZ51nVuDbXYDEQaoXdwPCqHRfpgXctKPerc3yzGHj4daGf_dSQ4ecqEDGIxzcFLRdyLvuHkbshb10WwgcuTHq_aBpnKRpNrwtfG_V9RxqqqmhEzHlsnGr7evymf8qDXZgAHAYSU
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 17:03:05.8217]
+[线程：80]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_CJ5uC82AWSsu83S0OJEPZ51nVuDbXYDEQaoXdwPCqHRfpgXctKPerc3yzGHj4daGf_dSQ4ecqEDGIxzcFLRdyLvuHkbshb10WwgcuTHq_aBpnKRpNrwtfG_V9RxqqqmhEzHlsnGr7evymf8qDXZgAHAYSU
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":0},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":2},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 17:03:06.9594]
+[线程：80]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/getidlist?access_token=48_CJ5uC82AWSsu83S0OJEPZ51nVuDbXYDEQaoXdwPCqHRfpgXctKPerc3yzGHj4daGf_dSQ4ecqEDGIxzcFLRdyLvuHkbshb10WwgcuTHq_aBpnKRpNrwtfG_V9RxqqqmhEzHlsnGr7evymf8qDXZgAHAYSU
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 17:03:06.9594]
+[线程：80]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/get?access_token=48_CJ5uC82AWSsu83S0OJEPZ51nVuDbXYDEQaoXdwPCqHRfpgXctKPerc3yzGHj4daGf_dSQ4ecqEDGIxzcFLRdyLvuHkbshb10WwgcuTHq_aBpnKRpNrwtfG_V9RxqqqmhEzHlsnGr7evymf8qDXZgAHAYSU
+	Result：
+{"tags":[{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":2},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 17:03:07.6705]
+[线程：80]
+	URL：https://api.weixin.qq.com/cgi-bin/user/tag/get?access_token=48_CJ5uC82AWSsu83S0OJEPZ51nVuDbXYDEQaoXdwPCqHRfpgXctKPerc3yzGHj4daGf_dSQ4ecqEDGIxzcFLRdyLvuHkbshb10WwgcuTHq_aBpnKRpNrwtfG_V9RxqqqmhEzHlsnGr7evymf8qDXZgAHAYSU
+	Post Data：
+{"tagid":102,"next_openid":""}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 17:04:20.7427]
+[线程：87]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 17:04:20.7479]
+[线程：87]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 17:04:32.4209]
+[线程：79]
+	URL：https://api.weixin.qq.com/cgi-bin/message/template/send?access_token=48_cO6dluc_08phK82EFC0rqZKwSDJdHpiyHyXewrdl90UfTlRd85hs1yKRVv5q9M0QzUvQJp8V9kA3-yVlwNI9Gw4No_PmESPA-o8e6gO4K-synQZFj4yjfaY-KtVFwVVcJzL8L9cPN4cBbKA9ADSgAIALOD
+	Post Data：
+{"touser":"ohzyVt6nDhiRLVl413tLQOlFf8f0","template_id":"U8IGrydPVjzTum1vIOj2_mWzgnE9QM6AhfxROSJl6jM","topcolor":"#FF0000","url":"http://www.baidu.com","miniprogram":null,"data":{"first":{"value":"这是一条测试的模板消息","color":"#173177"},"keyword1":{"value":"关键字1","color":"#173177"},"keyword2":{"value":"关键字2","color":"#173177"},"keyword3":{"value":"关键字3","color":"#173177"},"keyword4":{"value":"关键字4","color":"#173177"},"keyword5":{"value":"关键字5","color":"#173177"},"remark":{"value":"测试成功！","color":"#173177"}}}
+
+[[[接口调用]]]
+[2021/09/08 17:04:33.8164]
+[线程：79]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_cO6dluc_08phK82EFC0rqZKwSDJdHpiyHyXewrdl90UfTlRd85hs1yKRVv5q9M0QzUvQJp8V9kA3-yVlwNI9Gw4No_PmESPA-o8e6gO4K-synQZFj4yjfaY-KtVFwVVcJzL8L9cPN4cBbKA9ADSgAIALOD&openid=ohzyVt-Lzj2073Gq23KLRk7HAcPo&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo","nickname":"Viki小助理","sex":2,"language":"zh_CN","city":"","province":"","country":"","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/7jCILdeOs9cZiaZwlcSIl8JIHIrcCxyTnJiciagCLeYOFibdX2ibhfSOiaZHtf1kN8USiceFB51mn96CyqMGldze04Lr9M0sibjfJiaVC\/132","subscribe_time":1631093232,"remark":"","groupid":2,"tagid_list":[2,102],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 17:04:34.2501]
+[线程：79]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_cO6dluc_08phK82EFC0rqZKwSDJdHpiyHyXewrdl90UfTlRd85hs1yKRVv5q9M0QzUvQJp8V9kA3-yVlwNI9Gw4No_PmESPA-o8e6gO4K-synQZFj4yjfaY-KtVFwVVcJzL8L9cPN4cBbKA9ADSgAIALOD
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":0},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":2},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 17:04:34.2541]
+[线程：79]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_cO6dluc_08phK82EFC0rqZKwSDJdHpiyHyXewrdl90UfTlRd85hs1yKRVv5q9M0QzUvQJp8V9kA3-yVlwNI9Gw4No_PmESPA-o8e6gO4K-synQZFj4yjfaY-KtVFwVVcJzL8L9cPN4cBbKA9ADSgAIALOD
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 17:04:35.4648]
+[线程：79]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/get?access_token=48_cO6dluc_08phK82EFC0rqZKwSDJdHpiyHyXewrdl90UfTlRd85hs1yKRVv5q9M0QzUvQJp8V9kA3-yVlwNI9Gw4No_PmESPA-o8e6gO4K-synQZFj4yjfaY-KtVFwVVcJzL8L9cPN4cBbKA9ADSgAIALOD
+	Result：
+{"tags":[{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":2},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 17:04:35.4668]
+[线程：79]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/getidlist?access_token=48_cO6dluc_08phK82EFC0rqZKwSDJdHpiyHyXewrdl90UfTlRd85hs1yKRVv5q9M0QzUvQJp8V9kA3-yVlwNI9Gw4No_PmESPA-o8e6gO4K-synQZFj4yjfaY-KtVFwVVcJzL8L9cPN4cBbKA9ADSgAIALOD
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 17:04:36.2105]
+[线程：79]
+	URL：https://api.weixin.qq.com/cgi-bin/user/tag/get?access_token=48_cO6dluc_08phK82EFC0rqZKwSDJdHpiyHyXewrdl90UfTlRd85hs1yKRVv5q9M0QzUvQJp8V9kA3-yVlwNI9Gw4No_PmESPA-o8e6gO4K-synQZFj4yjfaY-KtVFwVVcJzL8L9cPN4cBbKA9ADSgAIALOD
+	Post Data：
+{"tagid":102,"next_openid":""}
+
+[[[接口调用]]]
+[2021/09/08 17:13:11.8812]
+[线程：93]
+	URL：https://api.weixin.qq.com/cgi-bin/message/template/send?access_token=48_cO6dluc_08phK82EFC0rqZKwSDJdHpiyHyXewrdl90UfTlRd85hs1yKRVv5q9M0QzUvQJp8V9kA3-yVlwNI9Gw4No_PmESPA-o8e6gO4K-synQZFj4yjfaY-KtVFwVVcJzL8L9cPN4cBbKA9ADSgAIALOD
+	Post Data：
+{"touser":"ohzyVt6nDhiRLVl413tLQOlFf8f0","template_id":"U8IGrydPVjzTum1vIOj2_mWzgnE9QM6AhfxROSJl6jM","topcolor":"#FF0000","url":"http://www.baidu.com","miniprogram":null,"data":{"first":{"value":"这是一条测试的模板消息","color":"#173177"},"keyword1":{"value":"关键字1","color":"#173177"},"keyword2":{"value":"关键字2","color":"#173177"},"keyword3":{"value":"关键字3","color":"#173177"},"keyword4":{"value":"关键字4","color":"#173177"},"keyword5":{"value":"关键字5","color":"#173177"},"remark":{"value":"测试成功！","color":"#173177"}}}
+
+[[[接口调用]]]
+[2021/09/08 17:13:15.4854]
+[线程：93]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_cO6dluc_08phK82EFC0rqZKwSDJdHpiyHyXewrdl90UfTlRd85hs1yKRVv5q9M0QzUvQJp8V9kA3-yVlwNI9Gw4No_PmESPA-o8e6gO4K-synQZFj4yjfaY-KtVFwVVcJzL8L9cPN4cBbKA9ADSgAIALOD&openid=ohzyVt-Lzj2073Gq23KLRk7HAcPo&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo","nickname":"Viki小助理","sex":2,"language":"zh_CN","city":"","province":"","country":"","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/7jCILdeOs9cZiaZwlcSIl8JIHIrcCxyTnJiciagCLeYOFibdX2ibhfSOiaZHtf1kN8USiceFB51mn96CyqMGldze04Lr9M0sibjfJiaVC\/132","subscribe_time":1631093232,"remark":"","groupid":2,"tagid_list":[2,102],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 17:13:15.9509]
+[线程：93]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_cO6dluc_08phK82EFC0rqZKwSDJdHpiyHyXewrdl90UfTlRd85hs1yKRVv5q9M0QzUvQJp8V9kA3-yVlwNI9Gw4No_PmESPA-o8e6gO4K-synQZFj4yjfaY-KtVFwVVcJzL8L9cPN4cBbKA9ADSgAIALOD
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":0},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":2},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 17:13:15.9509]
+[线程：93]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_cO6dluc_08phK82EFC0rqZKwSDJdHpiyHyXewrdl90UfTlRd85hs1yKRVv5q9M0QzUvQJp8V9kA3-yVlwNI9Gw4No_PmESPA-o8e6gO4K-synQZFj4yjfaY-KtVFwVVcJzL8L9cPN4cBbKA9ADSgAIALOD
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 17:13:17.1678]
+[线程：93]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/get?access_token=48_cO6dluc_08phK82EFC0rqZKwSDJdHpiyHyXewrdl90UfTlRd85hs1yKRVv5q9M0QzUvQJp8V9kA3-yVlwNI9Gw4No_PmESPA-o8e6gO4K-synQZFj4yjfaY-KtVFwVVcJzL8L9cPN4cBbKA9ADSgAIALOD
+	Result：
+{"tags":[{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":2},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 17:13:17.1678]
+[线程：93]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/getidlist?access_token=48_cO6dluc_08phK82EFC0rqZKwSDJdHpiyHyXewrdl90UfTlRd85hs1yKRVv5q9M0QzUvQJp8V9kA3-yVlwNI9Gw4No_PmESPA-o8e6gO4K-synQZFj4yjfaY-KtVFwVVcJzL8L9cPN4cBbKA9ADSgAIALOD
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 17:13:17.8781]
+[线程：93]
+	URL：https://api.weixin.qq.com/cgi-bin/user/tag/get?access_token=48_cO6dluc_08phK82EFC0rqZKwSDJdHpiyHyXewrdl90UfTlRd85hs1yKRVv5q9M0QzUvQJp8V9kA3-yVlwNI9Gw4No_PmESPA-o8e6gO4K-synQZFj4yjfaY-KtVFwVVcJzL8L9cPN4cBbKA9ADSgAIALOD
+	Post Data：
+{"tagid":102,"next_openid":""}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 17:14:29.2387]
+[线程：87]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 17:14:29.2427]
+[线程：87]
+微信扩展缓存注册总用时：0.0000ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 17:14:41.1065]
+[线程：99]
+	URL：https://api.weixin.qq.com/cgi-bin/message/template/send?access_token=48_3Hb3s0rOx9mSf6pePIHYJnNB9z12GWRK7dd2Kg3II1RIEz7LNglV31mtrANC5x_D-pP_cCsbNlx-VVV03xfiUmUoGkpuOhGAP2g14L2yP1cO2mcyw8aL3XXQOBNWGLD1srJ-OJNnuPHtc32sMXIjABAYJU
+	Post Data：
+{"touser":"ohzyVt1O0mHTj-lh9uzVZPc0mgJc","template_id":"U8IGrydPVjzTum1vIOj2_mWzgnE9QM6AhfxROSJl6jM","topcolor":"#FF0000","url":"http://www.baidu.com","miniprogram":null,"data":{"first":{"value":"这是一条测试的模板消息","color":"#173177"},"keyword1":{"value":"关键字1","color":"#173177"},"keyword2":{"value":"关键字2","color":"#173177"},"keyword3":{"value":"关键字3","color":"#173177"},"keyword4":{"value":"关键字4","color":"#173177"},"keyword5":{"value":"关键字5","color":"#173177"},"remark":{"value":"测试成功！","color":"#173177"}}}
+
+[[[接口调用]]]
+[2021/09/08 17:14:42.5639]
+[线程：99]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_3Hb3s0rOx9mSf6pePIHYJnNB9z12GWRK7dd2Kg3II1RIEz7LNglV31mtrANC5x_D-pP_cCsbNlx-VVV03xfiUmUoGkpuOhGAP2g14L2yP1cO2mcyw8aL3XXQOBNWGLD1srJ-OJNnuPHtc32sMXIjABAYJU&openid=ohzyVt-Lzj2073Gq23KLRk7HAcPo&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo","nickname":"Viki小助理","sex":2,"language":"zh_CN","city":"","province":"","country":"","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/7jCILdeOs9cZiaZwlcSIl8JIHIrcCxyTnJiciagCLeYOFibdX2ibhfSOiaZHtf1kN8USiceFB51mn96CyqMGldze04Lr9M0sibjfJiaVC\/132","subscribe_time":1631093232,"remark":"","groupid":2,"tagid_list":[2,102],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 17:14:43.0263]
+[线程：99]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_3Hb3s0rOx9mSf6pePIHYJnNB9z12GWRK7dd2Kg3II1RIEz7LNglV31mtrANC5x_D-pP_cCsbNlx-VVV03xfiUmUoGkpuOhGAP2g14L2yP1cO2mcyw8aL3XXQOBNWGLD1srJ-OJNnuPHtc32sMXIjABAYJU
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":1},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":2},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 17:14:43.0313]
+[线程：99]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_3Hb3s0rOx9mSf6pePIHYJnNB9z12GWRK7dd2Kg3II1RIEz7LNglV31mtrANC5x_D-pP_cCsbNlx-VVV03xfiUmUoGkpuOhGAP2g14L2yP1cO2mcyw8aL3XXQOBNWGLD1srJ-OJNnuPHtc32sMXIjABAYJU
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 17:14:44.1882]
+[线程：99]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/get?access_token=48_3Hb3s0rOx9mSf6pePIHYJnNB9z12GWRK7dd2Kg3II1RIEz7LNglV31mtrANC5x_D-pP_cCsbNlx-VVV03xfiUmUoGkpuOhGAP2g14L2yP1cO2mcyw8aL3XXQOBNWGLD1srJ-OJNnuPHtc32sMXIjABAYJU
+	Result：
+{"tags":[{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":2},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 17:14:44.1902]
+[线程：99]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/getidlist?access_token=48_3Hb3s0rOx9mSf6pePIHYJnNB9z12GWRK7dd2Kg3II1RIEz7LNglV31mtrANC5x_D-pP_cCsbNlx-VVV03xfiUmUoGkpuOhGAP2g14L2yP1cO2mcyw8aL3XXQOBNWGLD1srJ-OJNnuPHtc32sMXIjABAYJU
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 17:14:44.9113]
+[线程：99]
+	URL：https://api.weixin.qq.com/cgi-bin/user/tag/get?access_token=48_3Hb3s0rOx9mSf6pePIHYJnNB9z12GWRK7dd2Kg3II1RIEz7LNglV31mtrANC5x_D-pP_cCsbNlx-VVV03xfiUmUoGkpuOhGAP2g14L2yP1cO2mcyw8aL3XXQOBNWGLD1srJ-OJNnuPHtc32sMXIjABAYJU
+	Post Data：
+{"tagid":102,"next_openid":""}
+
+[[[自动注册扩展缓存完成]]]
+[2021/09/08 17:16:34.7810]
+[线程：87]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/09/08 17:16:34.7850]
+[线程：87]
+微信扩展缓存注册总用时：0.9978ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2021/09/08 17:16:46.6707]
+[线程：62]
+	URL：https://api.weixin.qq.com/cgi-bin/message/template/send?access_token=48_S0xzPN5nQ2xnFCtNB3lG9nPNYX-sXRRdr3hleTaAeCPyJHqbAjGdz5I0p9J0ZQHZTItfdQC8aLOCpu4Vkigu-GJluFVKgzVJkWN6Ve4N63fIW8uxFDkLezqdrvjiTo_UNSqV9AuwUhlNMBqLIXYbAGAMBC
+	Post Data：
+{"touser":"ohzyVt1O0mHTj-lh9uzVZPc0mgJc","template_id":"U8IGrydPVjzTum1vIOj2_mWzgnE9QM6AhfxROSJl6jM","topcolor":"#FF0000","url":"http://www.baidu.com","miniprogram":null,"data":{"first":{"value":"这是一条测试的模板消息","color":"#173177"},"keyword1":{"value":"关键字1","color":"#173177"},"keyword2":{"value":"关键字2","color":"#173177"},"keyword3":{"value":"关键字3","color":"#173177"},"keyword4":{"value":"关键字4","color":"#173177"},"keyword5":{"value":"关键字5","color":"#173177"},"remark":{"value":"测试成功！","color":"#173177"}}}
+
+[[[接口调用]]]
+[2021/09/08 17:16:48.0879]
+[线程：62]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_S0xzPN5nQ2xnFCtNB3lG9nPNYX-sXRRdr3hleTaAeCPyJHqbAjGdz5I0p9J0ZQHZTItfdQC8aLOCpu4Vkigu-GJluFVKgzVJkWN6Ve4N63fIW8uxFDkLezqdrvjiTo_UNSqV9AuwUhlNMBqLIXYbAGAMBC&openid=ohzyVt1O0mHTj-lh9uzVZPc0mgJc&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt1O0mHTj-lh9uzVZPc0mgJc","nickname":"Jim","sex":1,"language":"en","city":"","province":"","country":"英国","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/MzVBiaKgWiaUnAc1QzUaEic1PDp3RSgFjLQb4xQRCGwZhNgmfZQult7TwSBibVRpMnoYSq7lnbRiccOxqBPblo0iaKP1TrVicttUicVR\/132","subscribe_time":1631117627,"remark":"","groupid":0,"tagid_list":[],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 17:16:48.5590]
+[线程：62]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_S0xzPN5nQ2xnFCtNB3lG9nPNYX-sXRRdr3hleTaAeCPyJHqbAjGdz5I0p9J0ZQHZTItfdQC8aLOCpu4Vkigu-GJluFVKgzVJkWN6Ve4N63fIW8uxFDkLezqdrvjiTo_UNSqV9AuwUhlNMBqLIXYbAGAMBC
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":1},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":1},{"id":102,"name":"Test Tag1","count":2},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 17:16:48.5640]
+[线程：62]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/members/update?access_token=48_S0xzPN5nQ2xnFCtNB3lG9nPNYX-sXRRdr3hleTaAeCPyJHqbAjGdz5I0p9J0ZQHZTItfdQC8aLOCpu4Vkigu-GJluFVKgzVJkWN6Ve4N63fIW8uxFDkLezqdrvjiTo_UNSqV9AuwUhlNMBqLIXYbAGAMBC
+	Post Data：
+{"openid":"ohzyVt1O0mHTj-lh9uzVZPc0mgJc","to_groupid":101}
+
+[[[接口调用]]]
+[2021/09/08 17:16:49.3418]
+[线程：62]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_S0xzPN5nQ2xnFCtNB3lG9nPNYX-sXRRdr3hleTaAeCPyJHqbAjGdz5I0p9J0ZQHZTItfdQC8aLOCpu4Vkigu-GJluFVKgzVJkWN6Ve4N63fIW8uxFDkLezqdrvjiTo_UNSqV9AuwUhlNMBqLIXYbAGAMBC
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 17:16:50.5339]
+[线程：62]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/get?access_token=48_S0xzPN5nQ2xnFCtNB3lG9nPNYX-sXRRdr3hleTaAeCPyJHqbAjGdz5I0p9J0ZQHZTItfdQC8aLOCpu4Vkigu-GJluFVKgzVJkWN6Ve4N63fIW8uxFDkLezqdrvjiTo_UNSqV9AuwUhlNMBqLIXYbAGAMBC
+	Result：
+{"tags":[{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":2},{"id":102,"name":"Test Tag1","count":2},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 17:16:50.5359]
+[线程：62]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/getidlist?access_token=48_S0xzPN5nQ2xnFCtNB3lG9nPNYX-sXRRdr3hleTaAeCPyJHqbAjGdz5I0p9J0ZQHZTItfdQC8aLOCpu4Vkigu-GJluFVKgzVJkWN6Ve4N63fIW8uxFDkLezqdrvjiTo_UNSqV9AuwUhlNMBqLIXYbAGAMBC
+	Post Data：
+{"openid":"ohzyVt1O0mHTj-lh9uzVZPc0mgJc"}
+
+[[[接口调用]]]
+[2021/09/08 17:16:51.2394]
+[线程：62]
+	URL：https://api.weixin.qq.com/cgi-bin/user/tag/get?access_token=48_S0xzPN5nQ2xnFCtNB3lG9nPNYX-sXRRdr3hleTaAeCPyJHqbAjGdz5I0p9J0ZQHZTItfdQC8aLOCpu4Vkigu-GJluFVKgzVJkWN6Ve4N63fIW8uxFDkLezqdrvjiTo_UNSqV9AuwUhlNMBqLIXYbAGAMBC
+	Post Data：
+{"tagid":102,"next_openid":""}
+
+[[[接口调用]]]
+[2021/09/08 17:16:53.8907]
+[线程：99]
+	URL：https://api.weixin.qq.com/cgi-bin/message/template/send?access_token=48_S0xzPN5nQ2xnFCtNB3lG9nPNYX-sXRRdr3hleTaAeCPyJHqbAjGdz5I0p9J0ZQHZTItfdQC8aLOCpu4Vkigu-GJluFVKgzVJkWN6Ve4N63fIW8uxFDkLezqdrvjiTo_UNSqV9AuwUhlNMBqLIXYbAGAMBC
+	Post Data：
+{"touser":"ohzyVt1O0mHTj-lh9uzVZPc0mgJc","template_id":"U8IGrydPVjzTum1vIOj2_mWzgnE9QM6AhfxROSJl6jM","topcolor":"#FF0000","url":"http://www.baidu.com","miniprogram":null,"data":{"first":{"value":"这是一条测试的模板消息","color":"#173177"},"keyword1":{"value":"关键字1","color":"#173177"},"keyword2":{"value":"关键字2","color":"#173177"},"keyword3":{"value":"关键字3","color":"#173177"},"keyword4":{"value":"关键字4","color":"#173177"},"keyword5":{"value":"关键字5","color":"#173177"},"remark":{"value":"测试成功！","color":"#173177"}}}
+
+[[[接口调用]]]
+[2021/09/08 17:16:55.3177]
+[线程：99]
+	URL：https://api.weixin.qq.com/cgi-bin/user/info?access_token=48_S0xzPN5nQ2xnFCtNB3lG9nPNYX-sXRRdr3hleTaAeCPyJHqbAjGdz5I0p9J0ZQHZTItfdQC8aLOCpu4Vkigu-GJluFVKgzVJkWN6Ve4N63fIW8uxFDkLezqdrvjiTo_UNSqV9AuwUhlNMBqLIXYbAGAMBC&openid=ohzyVt1O0mHTj-lh9uzVZPc0mgJc&lang=zh_CN
+	Result：
+{"subscribe":1,"openid":"ohzyVt1O0mHTj-lh9uzVZPc0mgJc","nickname":"Jim","sex":1,"language":"en","city":"","province":"","country":"英国","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/MzVBiaKgWiaUnAc1QzUaEic1PDp3RSgFjLQb4xQRCGwZhNgmfZQult7TwSBibVRpMnoYSq7lnbRiccOxqBPblo0iaKP1TrVicttUicVR\/132","subscribe_time":1631117627,"remark":"","groupid":101,"tagid_list":[101],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+[[[接口调用]]]
+[2021/09/08 17:16:55.7846]
+[线程：99]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/get?access_token=48_S0xzPN5nQ2xnFCtNB3lG9nPNYX-sXRRdr3hleTaAeCPyJHqbAjGdz5I0p9J0ZQHZTItfdQC8aLOCpu4Vkigu-GJluFVKgzVJkWN6Ve4N63fIW8uxFDkLezqdrvjiTo_UNSqV9AuwUhlNMBqLIXYbAGAMBC
+	Result：
+{"groups":[{"id":0,"name":"未分组","count":0},{"id":1,"name":"黑名单","count":0},{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":2},{"id":102,"name":"Test Tag1","count":2},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 17:16:55.7846]
+[线程：99]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/members/update?access_token=48_S0xzPN5nQ2xnFCtNB3lG9nPNYX-sXRRdr3hleTaAeCPyJHqbAjGdz5I0p9J0ZQHZTItfdQC8aLOCpu4Vkigu-GJluFVKgzVJkWN6Ve4N63fIW8uxFDkLezqdrvjiTo_UNSqV9AuwUhlNMBqLIXYbAGAMBC
+	Post Data：
+{"openid":"ohzyVt1O0mHTj-lh9uzVZPc0mgJc","to_groupid":101}
+
+[[[接口调用]]]
+[2021/09/08 17:16:56.5287]
+[线程：99]
+	URL：https://api.weixin.qq.com/cgi-bin/groups/getid?access_token=48_S0xzPN5nQ2xnFCtNB3lG9nPNYX-sXRRdr3hleTaAeCPyJHqbAjGdz5I0p9J0ZQHZTItfdQC8aLOCpu4Vkigu-GJluFVKgzVJkWN6Ve4N63fIW8uxFDkLezqdrvjiTo_UNSqV9AuwUhlNMBqLIXYbAGAMBC
+	Post Data：
+{"openid":"ohzyVt-Lzj2073Gq23KLRk7HAcPo"}
+
+[[[接口调用]]]
+[2021/09/08 17:16:57.6984]
+[线程：99]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/getidlist?access_token=48_S0xzPN5nQ2xnFCtNB3lG9nPNYX-sXRRdr3hleTaAeCPyJHqbAjGdz5I0p9J0ZQHZTItfdQC8aLOCpu4Vkigu-GJluFVKgzVJkWN6Ve4N63fIW8uxFDkLezqdrvjiTo_UNSqV9AuwUhlNMBqLIXYbAGAMBC
+	Post Data：
+{"openid":"ohzyVt1O0mHTj-lh9uzVZPc0mgJc"}
+
+[[[接口调用]]]
+[2021/09/08 17:16:57.6984]
+[线程：99]
+	URL：https://api.weixin.qq.com/cgi-bin/tags/get?access_token=48_S0xzPN5nQ2xnFCtNB3lG9nPNYX-sXRRdr3hleTaAeCPyJHqbAjGdz5I0p9J0ZQHZTItfdQC8aLOCpu4Vkigu-GJluFVKgzVJkWN6Ve4N63fIW8uxFDkLezqdrvjiTo_UNSqV9AuwUhlNMBqLIXYbAGAMBC
+	Result：
+{"tags":[{"id":2,"name":"星标组","count":3},{"id":100,"name":"Group One","count":0},{"id":101,"name":"Group Two","count":2},{"id":102,"name":"Test Tag1","count":2},{"id":103,"name":"Test Tag2","count":0},{"id":104,"name":"Test Tag3","count":0}]}
+
+[[[接口调用]]]
+[2021/09/08 17:16:58.3980]
+[线程：99]
+	URL：https://api.weixin.qq.com/cgi-bin/user/tag/get?access_token=48_S0xzPN5nQ2xnFCtNB3lG9nPNYX-sXRRdr3hleTaAeCPyJHqbAjGdz5I0p9J0ZQHZTItfdQC8aLOCpu4Vkigu-GJluFVKgzVJkWN6Ve4N63fIW8uxFDkLezqdrvjiTo_UNSqV9AuwUhlNMBqLIXYbAGAMBC
+	Post Data：
+{"tagid":102,"next_openid":""}
+

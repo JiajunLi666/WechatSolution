@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Senparc.NeuChar.AspNet</name>
+    </assembly>
+    <members>
+        <member name="T:Senparc.NeuChar.App.Controllers.NeuCharAppController">
+            <summary>
+            用于快速实现 NeuChar 开发者发布的 App 与 NeuChar 平台交互（如状态发送）的默认 Controller 
+            <para>如果你有已经自己实现的带有 MessageHandler 的 Controller，也可以不使用这个基类</para>
+            </summary>
+        </member>
+        <member name="M:Senparc.NeuChar.App.Controllers.NeuCharAppController.Get(Senparc.NeuChar.App.Entities.NeuCharAppPostModel,System.String,System.String)">
+            <summary>
+            后台验证地址（使用Get），微信后台的“接口配置信息”的Url填写如：http://sdk.weixin.senparc.com/weixin
+            </summary>
+        </member>
+        <member name="M:Senparc.NeuChar.App.Controllers.NeuCharAppController.Post(Senparc.NeuChar.App.Entities.NeuCharAppPostModel,System.String)">
+            <summary>
+            最简化的处理流程（不加密）
+            </summary>
+        </member>
+    </members>
+</doc>

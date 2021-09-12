@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Senparc.Weixin.AspNet</name>
+    </assembly>
+    <members>
+        <member name="T:Senparc.Weixin.BrowserUtility.BrowserUtility">
+            <summary>
+            浏览器公共类
+            </summary>
+        </member>
+        <member name="M:Senparc.Weixin.BrowserUtility.BrowserUtility.SideInWeixinBrowser(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            判断是否在微信内置浏览器中
+            </summary>
+            <param name="httpContext">HttpContextBase对象</param>
+            <returns>true：在微信内置浏览器内。false：不在微信内置浏览器内。</returns>
+        </member>
+        <member name="M:Senparc.Weixin.BrowserUtility.BrowserUtility.SideInWeixinMiniProgram(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            判断是否在微信小程序内发起请求（注意：此方法在Android下有效，在iOS下暂时无效！）
+            </summary>
+            <param name="httpContext">HttpContextBase对象</param>
+            <returns>true：在微信内置浏览器内。false：不在微信内置浏览器内。</returns>
+        </member>
+        <member name="T:Senparc.Weixin.AspNetHttpUtility.UrlUtility">
+            <summary>
+            URL工具类
+            </summary>
+        </member>
+        <member name="M:Senparc.Weixin.AspNetHttpUtility.UrlUtility.GenerateOAuthCallbackUrl(Microsoft.AspNetCore.Http.HttpContext,System.String)">
+            <summary>
+            生成OAuth用的CallbackUrl参数（原始状态，未整体进行UrlEncode）
+            </summary>
+            <param name="httpContext"></param>
+            <param name="oauthCallbackUrl"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Senparc.Weixin.AspNet.WeixinRegister.UseSenparcWeixin(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.Extensions.Hosting.IHostEnvironment,Senparc.CO2NET.SenparcSetting,Senparc.Weixin.Entities.SenparcWeixinSetting,System.Action{Senparc.CO2NET.RegisterServices.IRegisterService},System.Action{Senparc.CO2NET.RegisterServices.IRegisterService},System.Boolean,System.Func{System.Collections.Generic.List{Senparc.CO2NET.Cache.IDomainExtensionCacheStrategy}})">
+            <summary>
+            <para>开始包含 CO2NET 注册在内的 Senparc.Weixin SDK 初始化参数流程</para>
+            <para>注意：本方法集成了 CON2ET 全局注册以及 Senparc.Weixin SDK 微信注册过程，提供给对代码行数有极限追求的开发者使用，常规情况下为了提高代码可读性和可维护性，并不推荐使用此方法。</para>
+            </summary>
+            <param name="registerService"></param>
+            <param name="senparcWeixinSetting"></param>
+            <param name="registerConfigure"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
